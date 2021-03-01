@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: libattica-katie
+Binary: libattica-katie
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ libattica-katie - Katie implementation of the Open Collaboration Services API
+Changes:
+ libattica-katie (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 2451a906ed033f25030c7932a0d494b85c2bea83 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ 3b7e45657da049b11070b025963a97cd0ed6ee58 7998 libattica-katie_4.20.0_amd64.buildinfo
+ 61b183fb12778df1d4b72dce844794829e8a8fda 176852 libattica-katie_4.20.0_amd64.deb
+Checksums-Sha256:
+ 46c4c0a71391c86911f5cb4f6f3cefdc9622f7d2c90824529df8bb598c824ddb 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ bd27705e44b01084485dd1e529d7bbc2d472f7c3332168a2e9ac0eb9c490d836 7998 libattica-katie_4.20.0_amd64.buildinfo
+ 80f21bbad2e00c195f209e910a4b9716df6eac8d791d56d04b62724b46cb7246 176852 libattica-katie_4.20.0_amd64.deb
+Files:
+ 7c0322a0bf0c4ecf03003aa32e70ffb6 4472244 debug optional libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ 2083066f1cd3611eace2718b5c322a88 7998 libdevel optional libattica-katie_4.20.0_amd64.buildinfo
+ d37c992d489210e62a5cb143d22a04be 176852 libdevel optional libattica-katie_4.20.0_amd64.deb

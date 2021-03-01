@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: qca-katie
+Binary: qca-katie
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ qca-katie  - Katie implementation of cryptographic architecture
+Changes:
+ qca-katie (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 3e3ec14d891b1a513271108b07e748d741eac548 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ fac0b9b0c40a9c253337714e1018535ffac52467 7983 qca-katie_4.20.0_amd64.buildinfo
+ d19419a204d08faa71f3c70924b9706bc5415ba6 634340 qca-katie_4.20.0_amd64.deb
+Checksums-Sha256:
+ 60a9d52f0a6208a5246e058ebd7402fb821e170cd4fbb850ca04e186f1529d83 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ 2eaa73a8535f3c242579b74d7942622e4b2d0d5d0c88b7aa6f38d8377b2d9cf8 7983 qca-katie_4.20.0_amd64.buildinfo
+ 89fbe20cb73019bc223a6ec65a3da70760fcbdadc965d2648cf5c58af33cd215 634340 qca-katie_4.20.0_amd64.deb
+Files:
+ 91ad0af90bb7526b5be407831315142e 7676328 debug optional qca-katie-dbgsym_4.20.0_amd64.ddeb
+ 9de8e8066400b4f8a0a852dd760a3315 7983 libdevel optional qca-katie_4.20.0_amd64.buildinfo
+ 860e77b77623c928958fcff7467e5857 634340 libdevel optional qca-katie_4.20.0_amd64.deb

@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: libdbusmenu-katie
+Binary: libdbusmenu-katie
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ libdbusmenu-katie - Katie implementation of the DBusMenu protocol
+Changes:
+ libdbusmenu-katie (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 16b2f780b2cf05e14a518183e2c1c7fbc175f13f 1023568 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
+ 4bbbd226411f138ed1738be693dc642bd8dd7043 8011 libdbusmenu-katie_4.20.0_amd64.buildinfo
+ c33e1161b6532f17a20185d327ac70b339308839 63888 libdbusmenu-katie_4.20.0_amd64.deb
+Checksums-Sha256:
+ b20481f26641f13f302c411354d7c9c5b7fd8a08066bd2a84808ad29588396f5 1023568 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
+ 47181fa8b04d95b7a0868fe78d01b41e3f518993dd02e712b9a05c2cabfc3e90 8011 libdbusmenu-katie_4.20.0_amd64.buildinfo
+ 3066db5e5224e9fde5a6ef4298affcecb1f6ec1c78c8f819640844fcb9ecd673 63888 libdbusmenu-katie_4.20.0_amd64.deb
+Files:
+ f2c8c2be19347928fb3bb05b20431c4d 1023568 debug optional libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
+ dbdfae195ad8f6ecadea705ce057cf6d 8011 libdevel optional libdbusmenu-katie_4.20.0_amd64.buildinfo
+ 037ec36ab888d6d49d585a336dd2917d 63888 libdevel optional libdbusmenu-katie_4.20.0_amd64.deb

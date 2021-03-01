@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: libpolkit-katie
+Binary: libpolkit-katie
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ libpolkit-katie - Library that allows developers to access PolicyKit API with a nic
+Changes:
+ libpolkit-katie (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ b151c7d4776a83068894ca3a39122c53cc6a1e0f 1048208 libpolkit-katie-dbgsym_4.20.0_amd64.ddeb
+ 8fe6bb90fade571f538b21d8778c288d075d54cc 9417 libpolkit-katie_4.20.0_amd64.buildinfo
+ 0baad58793b8beadfa78b98c0d0422ef973ffeef 65056 libpolkit-katie_4.20.0_amd64.deb
+Checksums-Sha256:
+ 9cb9cad1e3b70323741392e7c491ad566668a1799f804dde61a5f4af9620e334 1048208 libpolkit-katie-dbgsym_4.20.0_amd64.ddeb
+ 616a8b999d2590bba808d1bf2659156ca3e1dc585d5152fc349b0e83aeac3f31 9417 libpolkit-katie_4.20.0_amd64.buildinfo
+ 8859a18bc6e181401a6f4cd7c1726dcf134d5499f1f5885d328a86e394c6c105 65056 libpolkit-katie_4.20.0_amd64.deb
+Files:
+ dc7c971c485d685c1e774157e4e8032b 1048208 debug optional libpolkit-katie-dbgsym_4.20.0_amd64.ddeb
+ ae9b122dbf007bfb3ba4e45789a6ef6a 9417 libdevel optional libpolkit-katie_4.20.0_amd64.buildinfo
+ 4b64ce91228088e8882ecc69fb91de94 65056 libdevel optional libpolkit-katie_4.20.0_amd64.deb

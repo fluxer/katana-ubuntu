@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Wed, 03 Feb 2021 10:33:05 +0000
+Source: katanalibs
+Binary: katanalibs
+Architecture: amd64
+Version: 4.20.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ katanalibs - Katana core libraries
+Changes:
+ katanalibs (4.20.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 5d443e23d1413cc0c7096fad89f55d43cef229bd 113205500 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 19acf55610e5b657cdfd3e322f3803e4a78f7c80 18673 katanalibs_4.20.0_amd64.buildinfo
+ 21b66aff7dd0f692b6d933b3634edf660245c826 8138260 katanalibs_4.20.0_amd64.deb
+Checksums-Sha256:
+ 6da43cc7ee6da519a1fc2128530cafa146ad9ea2eb2e85a9dc4e303ae7b7548b 113205500 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 4497ab1889d3dd09cac5e1ca9b39dd2319811271d29ede5d7f5770af7ad66eaa 18673 katanalibs_4.20.0_amd64.buildinfo
+ c24f929d0bed385ddb6ea6163ac36a5888ecab069ce508ab7490cca5bf562dce 8138260 katanalibs_4.20.0_amd64.deb
+Files:
+ 8e6ba538c16e4a67ca082f188bc25e71 113205500 debug optional katanalibs-dbgsym_4.20.0_amd64.ddeb
+ cd904e3cfa7fd68e2afe2d363b6d07fc 18673 x11 optional katanalibs_4.20.0_amd64.buildinfo
+ f391abbe72fae871e2626f519aa43d44 8138260 x11 optional katanalibs_4.20.0_amd64.deb

@@ -1,3 +1,34 @@
+Package: ariya-icons
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 16116
+Filename: ./ariya-icons_4.20.0_amd64.deb
+Size: 9972660
+MD5sum: fefe9f181d5a048a07b0a4b2152fef4d
+SHA1: c0dbe4b9a55874a588fce9919fe21d906662a326
+SHA256: 98c1a9192e98312f6931e95a5c285c030dc2c5bcbf1b1db805f6254429d240da
+Section: misc
+Priority: optional
+Homepage: https://github.com/fluxer/ariya-icons
+Description: Ariya icon theme for use with Katana
+
+Package: katanalibs
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 33027
+Depends: katie-runtime (>= 4.10.0), libacl1 (>= 2.2.23), libbz2-1.0, libc6 (>= 2.29), libdbusmenu-katie, libenchant1c2a (>= 1.6.0), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libgssapi-krb5-2 (>= 1.17), libice6 (>= 1:1.0.0), libilmbase24 (>= 2.3.0), liblzma5 (>= 5.1.1alpha+20120614), libmpv1 (>= 0.7.0), libopenexr24 (>= 2.3.0), libraw19 (>= 0.19.0), libsm6, libstdc++6 (>= 5.2), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, strigi, zlib1g (>= 1:1.1.4), perl:any, upower, udisks2, shared-mime-info, media-player-info, xdg-utils
+Filename: ./katanalibs_4.20.0_amd64.deb
+Size: 8138260
+MD5sum: f391abbe72fae871e2626f519aa43d44
+SHA1: 21b66aff7dd0f692b6d933b3634edf660245c826
+SHA256: c24f929d0bed385ddb6ea6163ac36a5888ecab069ce508ab7490cca5bf562dce
+Section: x11
+Priority: optional
+Homepage: https://github.com/fluxer/kdelibs
+Description: Katana core libraries
+
 Package: katie-dev
 Source: katie
 Version: 4.10.0
@@ -87,4 +118,100 @@ Description: C++ toolkit derived from the Qt 4.8 framework
  .
  This package includes designer, moc, qdbus, qdbuscpp2xml, qdbusviewer,
  qdbusxml2cpp, qscript, qtconfig, rcc, and uic
+
+Package: libattica-katie
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 930
+Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.4), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
+Filename: ./libattica-katie_4.20.0_amd64.deb
+Size: 176852
+MD5sum: d37c992d489210e62a5cb143d22a04be
+SHA1: 61b183fb12778df1d4b72dce844794829e8a8fda
+SHA256: 80f21bbad2e00c195f209e910a4b9716df6eac8d791d56d04b62724b46cb7246
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/fluxer/attica
+Description: Katie implementation of the Open Collaboration Services API
+
+Package: libdbusmenu-katie
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 225
+Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 4.1.1)
+Filename: ./libdbusmenu-katie_4.20.0_amd64.deb
+Size: 63888
+MD5sum: 037ec36ab888d6d49d585a336dd2917d
+SHA1: c33e1161b6532f17a20185d327ac70b339308839
+SHA256: 3066db5e5224e9fde5a6ef4298affcecb1f6ec1c78c8f819640844fcb9ecd673
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/fluxer/libdbusmenu-qt
+Description: Katie implementation of the DBusMenu protocol
+
+Package: libpolkit-katie
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 341
+Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.37.3), libpolkit-agent-1-0 (>= 0.99), libpolkit-gobject-1-0 (>= 0.105-12~), libstdc++6 (>= 5)
+Filename: ./libpolkit-katie_4.20.0_amd64.deb
+Size: 65056
+MD5sum: 4b64ce91228088e8882ecc69fb91de94
+SHA1: 0baad58793b8beadfa78b98c0d0422ef973ffeef
+SHA256: 8859a18bc6e181401a6f4cd7c1726dcf134d5499f1f5885d328a86e394c6c105
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/fluxer/libpolkit-qt
+Description: Library that allows developers to access PolicyKit API with a nice Katie-style API
+
+Package: libpoppler-katie
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 4146
+Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.29), libcurl3-nss (>= 7.23.1), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libjpeg8 (>= 8c), liblcms2-2 (>= 2.2+git20110628), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.16), libopenjp2-7 (>= 2.0.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 4.9), libtiff5 (>= 4.0.3), zlib1g (>= 1:1.1.4)
+Filename: ./libpoppler-katie_4.20.0_amd64.deb
+Size: 856076
+MD5sum: c88e6ef09fbfc1d34e86f0637dd07914
+SHA1: 4a13d3477ea8de8f16cab641def58b682da132c1
+SHA256: 7c81e3204af1aa8de78e6f67371c38ae4128ec114765d09d8b3c80bbf11478a6
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/fluxer/poppler
+Description: Katie bindings for poppler
+
+Package: qca-katie
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 2630
+Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libnss3 (>= 2:3.13.4-2~), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2)
+Filename: ./qca-katie_4.20.0_amd64.deb
+Size: 634340
+MD5sum: 860e77b77623c928958fcff7467e5857
+SHA1: d19419a204d08faa71f3c70924b9706bc5415ba6
+SHA256: 89fbe20cb73019bc223a6ec65a3da70760fcbdadc965d2648cf5c58af33cd215
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/fluxer/qca
+Description: Katie implementation of cryptographic architecture
+
+Package: strigi
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 2107
+Depends: libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libbz2-1.0, libc6 (>= 2.29), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libmagic1 (>= 5.12), libstdc++6 (>= 9), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)
+Filename: ./strigi_4.20.0_amd64.deb
+Size: 390480
+MD5sum: 6ed812a75f96385bca01d03a1a5d4fd9
+SHA1: 4421448acf87b8975a883bc64d84c3f0078325fd
+SHA256: 2561577bf26bd25ca97aa4028324227e5bd392af924cbba9998638da52c0d297
+Section: libdevel
+Priority: optional
+Homepage: https://github.com/fluxer/strigi
+Description: File indexing and file search framework adopted by Katana
 
