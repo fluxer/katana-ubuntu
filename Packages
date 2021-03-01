@@ -13,6 +13,22 @@ Priority: optional
 Homepage: https://github.com/fluxer/ariya-icons
 Description: Ariya icon theme for use with Katana
 
+Package: katana-baseapps
+Version: 4.20.0
+Architecture: amd64
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Installed-Size: 24784
+Depends: katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 5), libx11-6, sudo, ctags, cppcheck
+Filename: ./katana-baseapps_4.20.0_amd64.deb
+Size: 4751984
+MD5sum: cad8ec56ebe0073edcb9bad388b0b9f7
+SHA1: b757f81953132e95fad71844570940e0e49c7752
+SHA256: 8b23728aa283dfcef0477e935b0e848d45c553952cfe00ff87e35d136fd62399
+Section: x11
+Priority: optional
+Homepage: https://github.com/fluxer/kde-baseapps
+Description: Katana core applications
+
 Package: katanalibs
 Version: 4.20.0
 Architecture: amd64
