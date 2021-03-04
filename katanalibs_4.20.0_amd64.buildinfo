@@ -4,17 +4,17 @@ Binary: katanalibs
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 8e6ba538c16e4a67ca082f188bc25e71 113205500 katanalibs-dbgsym_4.20.0_amd64.ddeb
- f391abbe72fae871e2626f519aa43d44 8138260 katanalibs_4.20.0_amd64.deb
+ d544cac5babcd8dfe471ba33f568580c 112084924 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 3d61260a79f75ebce30111ead8f685d2 8082792 katanalibs_4.20.0_amd64.deb
 Checksums-Sha1:
- 5d443e23d1413cc0c7096fad89f55d43cef229bd 113205500 katanalibs-dbgsym_4.20.0_amd64.ddeb
- 21b66aff7dd0f692b6d933b3634edf660245c826 8138260 katanalibs_4.20.0_amd64.deb
+ 751f884ac918d66089146ece799534bfe6992bd3 112084924 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ a1d0f38c7e6ba07a1c14b99040b138fe555c927f 8082792 katanalibs_4.20.0_amd64.deb
 Checksums-Sha256:
- 6da43cc7ee6da519a1fc2128530cafa146ad9ea2eb2e85a9dc4e303ae7b7548b 113205500 katanalibs-dbgsym_4.20.0_amd64.ddeb
- c24f929d0bed385ddb6ea6163ac36a5888ecab069ce508ab7490cca5bf562dce 8138260 katanalibs_4.20.0_amd64.deb
+ b775e0b3bab8be82d81fc769ba79998855d82b80552d198a9f116beaf4396c28 112084924 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 66e484104dde0519ebaf14acae45b3eb3a21020b6e5def676f5544e44b6dcf95 8082792 katanalibs_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 01 Mar 2021 17:57:37 +0000
+Build-Date: Thu, 04 Mar 2021 17:23:06 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -66,8 +66,6 @@ Installed-Build-Depends:
  gcc-9-base (= 9.3.0-10ubuntu2),
  gettext (= 0.19.8.1-10build1),
  gettext-base (= 0.19.8.1-10build1),
- gir1.2-glib-2.0 (= 1.64.0-2),
- gir1.2-udisks-2.0 (= 2.8.4-1ubuntu1),
  grep (= 3.4-1),
  groff-base (= 1.22.4-4build1),
  gzip (= 1.10-0ubuntu4),
@@ -196,7 +194,6 @@ Installed-Build-Depends:
  libgdbm6 (= 1.18.1-5),
  libgdk-pixbuf2.0-0 (= 2.40.0+dfsg-3),
  libgdk-pixbuf2.0-common (= 2.40.0+dfsg-3),
- libgirepository-1.0-1 (= 1.64.0-2),
  libgl-dev (= 1.3.1-1),
  libgl1 (= 1.3.1-1),
  libgl1-mesa-dri (= 20.0.4-2ubuntu1),
@@ -240,8 +237,11 @@ Installed-Build-Depends:
  libjack-jackd2-0 (= 1.9.12~dfsg-2ubuntu2),
  libjansson4 (= 2.12-1build1),
  libjbig0 (= 2.1-3.1build1),
+ libjpeg-dev (= 8c-2ubuntu8),
  libjpeg-turbo8 (= 2.0.3-0ubuntu1),
+ libjpeg-turbo8-dev (= 2.0.3-0ubuntu1),
  libjpeg8 (= 8c-2ubuntu8),
+ libjpeg8-dev (= 8c-2ubuntu8),
  libjson-c4 (= 0.13.1+dfsg-7),
  libjsoncpp1 (= 1.7.4-3.1ubuntu2),
  libk5crypto3 (= 1.17-6ubuntu4),
@@ -400,8 +400,6 @@ Installed-Build-Depends:
  libuchardet0 (= 0.0.6-3build1),
  libudev-dev (= 245.4-4ubuntu3),
  libudev1 (= 245.4-4ubuntu3),
- libudisks2-0 (= 2.8.4-1ubuntu1),
- libudisks2-dev (= 2.8.4-1ubuntu1),
  libunistring2 (= 0.9.10-2),
  libusb-1.0-0 (= 2:1.0.23-2build1),
  libuuid1 (= 2.34-0.1ubuntu9),
@@ -562,6 +560,7 @@ Installed-Build-Depends:
  util-linux (= 2.34-0.1ubuntu9),
  uuid-dev (= 2.34-0.1ubuntu9),
  x11-common (= 1:7.7+19ubuntu14),
+ x11proto-core-dev (= 2019.2-1ubuntu1),
  x11proto-dev (= 2019.2-1ubuntu1),
  x11proto-input-dev (= 2019.2-1ubuntu1),
  x11proto-randr-dev (= 2019.2-1ubuntu1),
