@@ -4,17 +4,17 @@ Binary: katana-workspace
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 5b06d831f6e476ae41500e5d0a78e07a 202846664 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- 7701caf85cab34e22cceff87c0889c01 23652104 katana-workspace_4.20.0_amd64.deb
+ 20ec393b95e189a992f62bfc2638ba6e 203157244 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 332bcf5e80a7e90590b0ae5d6d2085ed 23675868 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha1:
- 16d00901ae914b11a11f0f7ef34debdc50ccb483 202846664 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- b3fad38d1ae118081ab3a64862e10893e454e24c 23652104 katana-workspace_4.20.0_amd64.deb
+ 471830124266f4691b8174eb3a618d4bd139cb94 203157244 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 9a5313c7ab7e76c50140db931485646793d71cca 23675868 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha256:
- 06d501e6af41f55816fe4b60076b36ff5f5d0ae6ea0c3fa103c80314d8c46b1a 202846664 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- 7fcf6c9afaa0950a2212725acc48dafcffe1a815533f5ed4b73b3761c6cfe8df 23652104 katana-workspace_4.20.0_amd64.deb
+ 33fb2254fff0e4cca247a4b551285cab72b3cb1186e31a91fcaa4d4a14978ddc 203157244 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ c4fea5b4a7dd367c26ec55d27ef3c0fe5bf645cf650a29145b2492199aa5616f 23675868 katana-workspace_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 04 Mar 2021 17:56:03 +0000
+Build-Date: Sun, 07 Mar 2021 15:38:15 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -40,7 +40,6 @@ Installed-Build-Depends:
  cpp-9 (= 9.3.0-10ubuntu2),
  cppcheck (= 1.90-4build1),
  dash (= 0.5.10.2-6),
- dbus (= 1.12.16-2ubuntu2),
  debconf (= 1.5.73),
  debhelper (= 12.10ubuntu1),
  debianutils (= 4.9.1),
@@ -236,7 +235,6 @@ Installed-Build-Depends:
  libgsm1 (= 1.0.18-2),
  libgssapi-krb5-2 (= 1.17-6ubuntu4),
  libgssapi3-heimdal (= 7.7.0+dfsg-1ubuntu1),
- libgudev-1.0-0 (= 1:233-1),
  libharfbuzz0b (= 2.6.4-1ubuntu4),
  libhcrypto4-heimdal (= 7.7.0+dfsg-1ubuntu1),
  libheimbase1-heimdal (= 7.7.0+dfsg-1ubuntu1),
@@ -252,7 +250,6 @@ Installed-Build-Depends:
  libiec61883-0 (= 1.2.0-3),
  libilmbase-dev (= 2.3.0-6build1),
  libilmbase24 (= 2.3.0-6build1),
- libimobiledevice6 (= 1.2.1~git20191129.9f79242-1build1),
  libip4tc2 (= 1.8.4-3ubuntu2),
  libisl22 (= 0.22.1-1),
  libitm1 (= 10-20200411-0ubuntu1),
@@ -348,7 +345,6 @@ Installed-Build-Depends:
  libpipeline1 (= 1.5.2-2build1),
  libpixman-1-0 (= 0.38.4-0ubuntu1),
  libpixman-1-dev (= 0.38.4-0ubuntu1),
- libplist3 (= 2.1.0-4build2),
  libpng-dev (= 1.6.37-2),
  libpng16-16 (= 1.6.37-2),
  libpopt0 (= 1.16-14),
@@ -440,10 +436,8 @@ Installed-Build-Depends:
  libudev-dev (= 245.4-4ubuntu3),
  libudev1 (= 245.4-4ubuntu3),
  libunistring2 (= 0.9.10-2),
- libupower-glib3 (= 0.99.11-1build2),
  libusb-1.0-0 (= 2:1.0.23-2build1),
  libusb-1.0-0-dev (= 2:1.0.23-2build1),
- libusbmuxd6 (= 2.0.1-2),
  libuuid1 (= 2.34-0.1ubuntu9),
  libuv1 (= 1.34.2-1ubuntu1),
  libva-drm2 (= 2.7.0-2),
@@ -624,12 +618,10 @@ Installed-Build-Depends:
  tzdata (= 2019c-3ubuntu1),
  ucf (= 3.0038+nmu1),
  udev (= 245.4-4ubuntu3),
- upower (= 0.99.11-1build2),
  util-linux (= 2.34-0.1ubuntu9),
  uuid-dev (= 2.34-0.1ubuntu9),
  x11-common (= 1:7.7+19ubuntu14),
  x11-xkb-utils (= 7.7+5),
- x11proto-core-dev (= 2019.2-1ubuntu1),
  x11proto-dev (= 2019.2-1ubuntu1),
  x11proto-input-dev (= 2019.2-1ubuntu1),
  x11proto-randr-dev (= 2019.2-1ubuntu1),
