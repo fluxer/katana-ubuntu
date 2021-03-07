@@ -17,13 +17,13 @@ Package: katana-baseapps
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 24784
+Installed-Size: 24783
 Depends: katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 5), libx11-6, sudo, ctags, cppcheck
 Filename: ./katana-baseapps_4.20.0_amd64.deb
-Size: 4751984
-MD5sum: cad8ec56ebe0073edcb9bad388b0b9f7
-SHA1: b757f81953132e95fad71844570940e0e49c7752
-SHA256: 8b23728aa283dfcef0477e935b0e848d45c553952cfe00ff87e35d136fd62399
+Size: 4751688
+MD5sum: c41d50f02fef62bcd2769f80d42ea086
+SHA1: 2b46da67a4e3ff39d6b5888252a2e55cd18d5e0c
+SHA256: 0aef68dc67a756e9a86e81f50d76a73a3fb031adbe29fd41ef8991c5015b7708
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-baseapps
@@ -49,13 +49,13 @@ Package: katanalibs
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 32803
-Depends: katie-runtime (>= 4.10.0), libacl1 (>= 2.2.23), libbz2-1.0, libc6 (>= 2.29), libdbusmenu-katie, libenchant1c2a (>= 1.6.0), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libgssapi-krb5-2 (>= 1.17), libice6 (>= 1:1.0.0), libilmbase24 (>= 2.3.0), liblzma5 (>= 5.1.1alpha+20120614), libmpv1 (>= 0.7.0), libopenexr24 (>= 2.3.0), libraw19 (>= 0.19.0), libsm6, libstdc++6 (>= 5.2), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, strigi, zlib1g (>= 1:1.1.4), perl:any, upower, shared-mime-info, media-player-info, xdg-utils
+Installed-Size: 32759
+Depends: katie-runtime (>= 4.10.0), libacl1 (>= 2.2.23), libbz2-1.0, libc6 (>= 2.29), libdbusmenu-katie, libenchant1c2a (>= 1.6.0), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libgssapi-krb5-2 (>= 1.17), libice6 (>= 1:1.0.0), libilmbase24 (>= 2.3.0), liblzma5 (>= 5.1.1alpha+20120614), libmpv1 (>= 0.7.0), libopenexr24 (>= 2.3.0), libraw19 (>= 0.19.0), libsm6, libstdc++6 (>= 5.2), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, strigi, zlib1g (>= 1:1.1.4), perl:any, xdg-utils, shared-mime-info, media-player-info
 Filename: ./katanalibs_4.20.0_amd64.deb
-Size: 8082792
-MD5sum: 3d61260a79f75ebce30111ead8f685d2
-SHA1: a1d0f38c7e6ba07a1c14b99040b138fe555c927f
-SHA256: 66e484104dde0519ebaf14acae45b3eb3a21020b6e5def676f5544e44b6dcf95
+Size: 8064528
+MD5sum: a452654f911aabed215f4da320142b20
+SHA1: 6af6c8a0c46ce4f8c7cd9af7ee7d92c5a983881c
+SHA256: 384decfdad55cc4a368ccd0486484583213a6861051f8cf4f43521b2999be4a9
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kdelibs

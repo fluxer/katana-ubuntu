@@ -4,17 +4,17 @@ Binary: katana-baseapps
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- af931f09669e5febb95dcdc2220c0a2a 74974484 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- cad8ec56ebe0073edcb9bad388b0b9f7 4751984 katana-baseapps_4.20.0_amd64.deb
+ 10c5fe9c75d3f6606094e69863e861a1 74966328 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ c41d50f02fef62bcd2769f80d42ea086 4751688 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha1:
- d2cf8a8a685f726812a318b8f543034f8765cad6 74974484 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- b757f81953132e95fad71844570940e0e49c7752 4751984 katana-baseapps_4.20.0_amd64.deb
+ da250987ab43c36a14f49a2cdadef33737684bb3 74966328 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 2b46da67a4e3ff39d6b5888252a2e55cd18d5e0c 4751688 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha256:
- 87c06582cfc3356c68cd5617f938006c479cde131de603de673ce72410d6c42f 74974484 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 8b23728aa283dfcef0477e935b0e848d45c553952cfe00ff87e35d136fd62399 4751984 katana-baseapps_4.20.0_amd64.deb
+ 7fa77ab0ff67a68b6d6a2fcc3f44f0fec579da08935239b29cf4110b347ad039 74966328 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 0aef68dc67a756e9a86e81f50d76a73a3fb031adbe29fd41ef8991c5015b7708 4751688 katana-baseapps_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 01 Mar 2021 18:19:22 +0000
+Build-Date: Sun, 07 Mar 2021 15:08:10 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -39,7 +39,6 @@ Installed-Build-Depends:
  cpp (= 4:9.3.0-1ubuntu2),
  cpp-9 (= 9.3.0-10ubuntu2),
  dash (= 0.5.10.2-6),
- dbus (= 1.12.16-2ubuntu2),
  debconf (= 1.5.73),
  debhelper (= 12.10ubuntu1),
  debianutils (= 4.9.1),
@@ -47,13 +46,10 @@ Installed-Build-Depends:
  dh-strip-nondeterminism (= 1.7.0-1),
  dictionaries-common (= 1.28.1),
  diffutils (= 1:3.7-3),
- dmidecode (= 3.2-3),
  dpkg (= 1.19.7ubuntu3),
  dpkg-dev (= 1.19.7ubuntu3),
  dwz (= 0.13-5),
- e2fsprogs (= 1.45.5-2ubuntu1),
  emacsen-common (= 3.0.4),
- fdisk (= 2.34-0.1ubuntu9),
  file (= 1:5.38-4),
  findutils (= 4.7.0-1ubuntu1),
  fontconfig (= 2.13.1-2ubuntu3),
@@ -65,7 +61,6 @@ Installed-Build-Depends:
  gcc-10-base (= 10-20200411-0ubuntu1),
  gcc-9 (= 9.3.0-10ubuntu2),
  gcc-9-base (= 9.3.0-10ubuntu2),
- gdisk (= 1.0.5-1),
  gettext (= 0.19.8.1-10build1),
  gettext-base (= 0.19.8.1-10build1),
  grep (= 3.4-1),
@@ -93,7 +88,6 @@ Installed-Build-Depends:
  libaspell15 (= 0.60.8-1build1),
  libass9 (= 1:0.14.0-2),
  libasyncns0 (= 0.8-6),
- libatasmart4 (= 0.19-5),
  libatomic1 (= 10-20200411-0ubuntu1),
  libattr1 (= 1:2.4.48-5),
  libaudit-common (= 1:2.8.5-2ubuntu6),
@@ -109,13 +103,6 @@ Installed-Build-Depends:
  libavutil56 (= 7:4.2.2-1ubuntu1),
  libbinutils (= 2.34-6ubuntu1),
  libblkid1 (= 2.34-0.1ubuntu9),
- libblockdev-fs2 (= 2.23-2ubuntu3),
- libblockdev-loop2 (= 2.23-2ubuntu3),
- libblockdev-part-err2 (= 2.23-2ubuntu3),
- libblockdev-part2 (= 2.23-2ubuntu3),
- libblockdev-swap2 (= 2.23-2ubuntu3),
- libblockdev-utils2 (= 2.23-2ubuntu3),
- libblockdev2 (= 2.23-2ubuntu3),
  libbluray2 (= 1:1.2.0-1),
  libbrotli1 (= 1.0.7-6build1),
  libbs2b0 (= 3.1.0+dfsg-2.2build1),
@@ -168,8 +155,6 @@ Installed-Build-Depends:
  libenchant1c2a (= 1.6.0-11.3build1),
  libexiv2-27 (= 0.27.2-8ubuntu2),
  libexpat1 (= 2.2.9-1build1),
- libext2fs2 (= 1.45.5-2ubuntu1),
- libfdisk1 (= 2.34-0.1ubuntu9),
  libffi7 (= 3.3-4),
  libfftw3-double3 (= 3.3.8-2ubuntu1),
  libfile-stripnondeterminism-perl (= 1.7.0-1),
@@ -202,7 +187,6 @@ Installed-Build-Depends:
  libgsm1 (= 1.0.18-2),
  libgssapi-krb5-2 (= 1.17-6ubuntu4),
  libgssapi3-heimdal (= 7.7.0+dfsg-1ubuntu1),
- libgudev-1.0-0 (= 1:233-1),
  libharfbuzz0b (= 2.6.4-1ubuntu4),
  libhcrypto4-heimdal (= 7.7.0+dfsg-1ubuntu1),
  libheimbase1-heimdal (= 7.7.0+dfsg-1ubuntu1),
@@ -215,7 +199,6 @@ Installed-Build-Depends:
  libidn2-0 (= 2.2.0-2),
  libiec61883-0 (= 1.2.0-3),
  libilmbase24 (= 2.3.0-6build1),
- libimobiledevice6 (= 1.2.1~git20191129.9f79242-1build1),
  libip4tc2 (= 1.8.4-3ubuntu2),
  libisl22 (= 0.22.1-1),
  libitm1 (= 10-20200411-0ubuntu1),
@@ -273,13 +256,10 @@ Installed-Build-Depends:
  libpam-modules (= 1.3.1-5ubuntu4),
  libpam-modules-bin (= 1.3.1-5ubuntu4),
  libpam-runtime (= 1.3.1-5ubuntu4),
- libpam-systemd (= 245.4-4ubuntu3),
  libpam0g (= 1.3.1-5ubuntu4),
  libpango-1.0-0 (= 1.44.7-2ubuntu4),
  libpangocairo-1.0-0 (= 1.44.7-2ubuntu4),
  libpangoft2-1.0-0 (= 1.44.7-2ubuntu4),
- libparted-fs-resize0 (= 3.3-4),
- libparted2 (= 3.3-4),
  libpciaccess0 (= 0.16-0ubuntu1),
  libpcre2-8-0 (= 10.34-7),
  libpcre3 (= 2:8.39-12build1),
@@ -287,10 +267,7 @@ Installed-Build-Depends:
  libpgm-5.2-0 (= 5.2.122~dfsg-3ubuntu1),
  libpipeline1 (= 1.5.2-2build1),
  libpixman-1-0 (= 0.38.4-0ubuntu1),
- libplist3 (= 2.1.0-4build2),
  libpng16-16 (= 1.6.37-2),
- libpolkit-agent-1-0 (= 0.105-26ubuntu1),
- libpolkit-gobject-1-0 (= 0.105-26ubuntu1),
  libpopt0 (= 1.16-14),
  libpostproc55 (= 7:4.2.2-1ubuntu1),
  libpq5 (= 12.2-4),
@@ -337,7 +314,6 @@ Installed-Build-Depends:
  libspeex1 (= 1.2~rc1.2-1.1ubuntu1),
  libsqlite3-0 (= 3.31.1-4),
  libsratom-0-0 (= 0.6.4-1),
- libss2 (= 1.45.5-2ubuntu1),
  libssh-4 (= 0.9.3-2ubuntu2),
  libssh-gcrypt-4 (= 0.9.3-2ubuntu2),
  libssl1.1 (= 1.1.1f-1ubuntu2),
@@ -363,11 +339,8 @@ Installed-Build-Depends:
  libubsan1 (= 10-20200411-0ubuntu1),
  libuchardet0 (= 0.0.6-3build1),
  libudev1 (= 245.4-4ubuntu3),
- libudisks2-0 (= 2.8.4-1ubuntu1),
  libunistring2 (= 0.9.10-2),
- libupower-glib3 (= 0.99.11-1build2),
  libusb-1.0-0 (= 2:1.0.23-2build1),
- libusbmuxd6 (= 2.0.1-2),
  libuuid1 (= 2.34-0.1ubuntu9),
  libuv1 (= 1.34.2-1ubuntu1),
  libva-drm2 (= 2.7.0-2),
@@ -430,7 +403,6 @@ Installed-Build-Depends:
  libzvbi0 (= 0.2.35-17),
  linux-libc-dev (= 5.4.0-26.30),
  login (= 1:4.8.1-1ubuntu5),
- logsave (= 1.45.5-2ubuntu1),
  lsb-base (= 11.1.0ubuntu2),
  m4 (= 1.4.18-4),
  make (= 4.2.1-1.2),
@@ -442,7 +414,6 @@ Installed-Build-Depends:
  ncurses-base (= 6.2-0ubuntu2),
  ncurses-bin (= 6.2-0ubuntu2),
  ocl-icd-libopencl1 (= 2.2.11-1ubuntu1),
- parted (= 3.3-4),
  passwd (= 1:4.8.1-1ubuntu5),
  patch (= 2.7.6-6),
  perl (= 5.30.0-9build1),
@@ -470,8 +441,6 @@ Installed-Build-Depends:
  tzdata (= 2019c-3ubuntu1),
  ucf (= 3.0038+nmu1),
  udev (= 245.4-4ubuntu3),
- udisks2 (= 2.8.4-1ubuntu1),
- upower (= 0.99.11-1build2),
  util-linux (= 2.34-0.1ubuntu9),
  x11-common (= 1:7.7+19ubuntu14),
  xdg-utils (= 1.1.3-2ubuntu1),
