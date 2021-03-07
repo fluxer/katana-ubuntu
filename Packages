@@ -69,10 +69,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 4020
 Depends: katie-runtime, katie-tools
 Filename: ./katie-dev_4.10.0_amd64.deb
-Size: 381532
-MD5sum: 5e66cbf2ee23f1ed744c80cebf9b2de5
-SHA1: ef12ae3bdf33d9a394df99ecffa769024b5ae278
-SHA256: aaf922d595c2e6ac07afef0c9d9e4ded0eb0df6e9f205f18e8804f5a6e8fab8e
+Size: 381516
+MD5sum: 883c90b73a78eb5a4ee88bdb19eedf44
+SHA1: 7a8df28f7aea03291a1157d4e458a9641a6badfa
+SHA256: 86b9ddbc59f984a01bcaab9238009b287f066f976bed6316cab8cdb1abe17ece
 Section: devel
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -110,14 +110,14 @@ Source: katie
 Version: 4.10.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 34220
+Installed-Size: 34216
 Depends: libc6 (>= 2.29), libcups2 (>= 1.4.0), libdbus-1-3 (>= 1.9.14), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libice6 (>= 1:1.0.0), libicu66 (>= 66.1-1~), libjansson4 (>= 2.7), libjpeg8 (>= 8c), libmariadbd19, libodbc1 (>= 2.3.1), libpcre3, libpng16-16 (>= 1.6.2-1), libpq5, libsm6, libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5), libtiff5 (>= 4.0.3), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxinerama1, libxrandr2, libxrender1, libzstd1 (>= 1.3.2), zlib1g (>= 1:1.2.0), xdg-utils
 Recommends: unixodbc, libmariadbclient, xserver-xorg-core
 Filename: ./katie-runtime_4.10.0_amd64.deb
-Size: 8740868
-MD5sum: 254ba633c3cafac98028c0720f13702b
-SHA1: dcc9bb9c18378850b875297200a65fce4aa4c99a
-SHA256: 0cdf35dfa996588202078fa0c208e2809eaf5981101545bfdfc075d49477ce38
+Size: 8751616
+MD5sum: a1d1b9f416e5aa1354d8e527f98bf5e3
+SHA1: c88a41128b6d313cd366a156552b9bb2d2fc9920
+SHA256: 9b416260f4688ee3b2adaca93ea412a4caed458eb1be97fe596c0c51a87b2cdd
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -136,10 +136,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 1906
 Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
 Filename: ./katie-tools_4.10.0_amd64.deb
-Size: 491704
-MD5sum: 0266b892cf528b1d6300f8e7e5cf4432
-SHA1: 1e53cce013ce78ade3d49f04e0801d4692e93086
-SHA256: 855146a9eecf9da0239edd859865a9d41294027e8cc3d5ca37f7ce9b9b312a79
+Size: 491664
+MD5sum: f68961e28a7a323d779385f922b91f61
+SHA1: e358da908e00b15b996380aac6651d4d0736b123
+SHA256: a3c26e16f0bccf0c01bfadd0f0a805ae7abd41029fe0c87b976ced5c0dc4de19
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
