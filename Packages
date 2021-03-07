@@ -174,10 +174,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 225
 Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 4.1.1)
 Filename: ./libdbusmenu-katie_4.20.0_amd64.deb
-Size: 63888
-MD5sum: 037ec36ab888d6d49d585a336dd2917d
-SHA1: c33e1161b6532f17a20185d327ac70b339308839
-SHA256: 3066db5e5224e9fde5a6ef4298affcecb1f6ec1c78c8f819640844fcb9ecd673
+Size: 63920
+MD5sum: c7c9948ea3196e3189b040e89afd4874
+SHA1: 177a7ed0ec2da72d02d0024972f3e42b307ccd98
+SHA256: e1a80b0770505929bc2df89be197f8d389d11e3b93fc7560c0bebe46ac7134f3
 Section: libdevel
 Priority: optional
 Homepage: https://github.com/fluxer/libdbusmenu-qt
@@ -203,13 +203,13 @@ Package: qca-katie
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 2630
-Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libnss3 (>= 2:3.13.4-2~), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2)
+Installed-Size: 2583
+Depends: katie-runtime (>= 4.10.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2)
 Filename: ./qca-katie_4.20.0_amd64.deb
-Size: 634340
-MD5sum: 860e77b77623c928958fcff7467e5857
-SHA1: d19419a204d08faa71f3c70924b9706bc5415ba6
-SHA256: 89fbe20cb73019bc223a6ec65a3da70760fcbdadc965d2648cf5c58af33cd215
+Size: 625972
+MD5sum: 216a1dcdee9545e7f16b96ed10816186
+SHA1: f13ccea6249b4c2b589193e2e1f160efabfc6495
+SHA256: 2212888642fdd798b3f926a57f0a2ebd6afa9a141acc9886cd966f4b94a5aae0
 Section: libdevel
 Priority: optional
 Homepage: https://github.com/fluxer/qca
@@ -219,13 +219,13 @@ Package: strigi
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 2107
+Installed-Size: 1812
 Depends: libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libbz2-1.0, libc6 (>= 2.29), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libmagic1 (>= 5.12), libstdc++6 (>= 9), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4)
 Filename: ./strigi_4.20.0_amd64.deb
-Size: 390480
-MD5sum: 6ed812a75f96385bca01d03a1a5d4fd9
-SHA1: 4421448acf87b8975a883bc64d84c3f0078325fd
-SHA256: 2561577bf26bd25ca97aa4028324227e5bd392af924cbba9998638da52c0d297
+Size: 371832
+MD5sum: 8defdf364fe919cf14ab8019fe5611df
+SHA1: c795c814d7cbefe9a2202725d036ef72f728d163
+SHA256: b943c6541fdf499c05cf289ae2e015fb37f02498fedd010673aa79f50b25c3ef
 Section: libdevel
 Priority: optional
 Homepage: https://github.com/fluxer/strigi

@@ -1,20 +1,20 @@
 Format: 1.0
-Source: qca-katie
-Binary: qca-katie
+Source: libpoppler-katie
+Binary: libpoppler-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- d9e8e48f342a045a67078b6dea0105e2 7530692 qca-katie-dbgsym_4.20.0_amd64.ddeb
- 216a1dcdee9545e7f16b96ed10816186 625972 qca-katie_4.20.0_amd64.deb
+ 2afbb6bf0e1f71f650023cd65fd9c85d 149348 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
+ c88e6ef09fbfc1d34e86f0637dd07914 856076 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- 1d6717f82449aee612009d9ff4b69f412dd317ff 7530692 qca-katie-dbgsym_4.20.0_amd64.ddeb
- f13ccea6249b4c2b589193e2e1f160efabfc6495 625972 qca-katie_4.20.0_amd64.deb
+ 15f785c2cfb95815f90dfde757fe915554222ab8 149348 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
+ 4a13d3477ea8de8f16cab641def58b682da132c1 856076 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- e550268cf95bb251156fb4e7da184649fc32d7f18a9bdaa456371ed5e425aec1 7530692 qca-katie-dbgsym_4.20.0_amd64.ddeb
- 2212888642fdd798b3f926a57f0a2ebd6afa9a141acc9886cd966f4b94a5aae0 625972 qca-katie_4.20.0_amd64.deb
+ 7ef2ed553c2c970ae92cbd0d3edfaa092561aeee9fc6742d1a66daf6db700d33 149348 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
+ 7c81e3204af1aa8de78e6f67371c38ae4128ec114765d09d8b3c80bbf11478a6 856076 libpoppler-katie_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 07 Mar 2021 03:21:38 +0000
+Build-Date: Sun, 07 Mar 2021 03:22:45 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -99,7 +99,9 @@ Installed-Build-Depends:
  libctf-nobfd0 (= 2.34-6ubuntu1),
  libctf0 (= 2.34-6ubuntu1),
  libcups2 (= 2.3.1-9ubuntu1),
+ libcurl3-nss (= 7.68.0-1ubuntu2),
  libcurl4 (= 7.68.0-1ubuntu2),
+ libcurl4-nss-dev (= 7.68.0-1ubuntu2),
  libdb5.3 (= 5.3.28+dfsg1-0.6ubuntu2),
  libdbus-1-3 (= 1.12.16-2ubuntu2),
  libdebconfclient0 (= 0.251ubuntu1),
@@ -107,10 +109,14 @@ Installed-Build-Depends:
  libdpkg-perl (= 1.19.7ubuntu3),
  libelf1 (= 0.176-1.1build1),
  libexpat1 (= 2.2.9-1build1),
+ libexpat1-dev (= 2.2.9-1build1),
  libffi7 (= 3.3-4),
  libfile-stripnondeterminism-perl (= 1.7.0-1),
  libfontconfig1 (= 2.13.1-2ubuntu3),
+ libfontconfig1-dev (= 2.13.1-2ubuntu3),
+ libfreetype-dev (= 2.10.1-2),
  libfreetype6 (= 2.10.1-2),
+ libfreetype6-dev (= 2.10.1-2),
  libgcc-9-dev (= 9.3.0-10ubuntu2),
  libgcc-s1 (= 10-20200411-0ubuntu1),
  libgcrypt20 (= 1.8.5-5ubuntu1),
@@ -134,20 +140,27 @@ Installed-Build-Depends:
  libisl22 (= 0.22.1-1),
  libitm1 (= 10-20200411-0ubuntu1),
  libjansson4 (= 2.12-1build1),
+ libjbig-dev (= 2.1-3.1build1),
  libjbig0 (= 2.1-3.1build1),
+ libjpeg-dev (= 8c-2ubuntu8),
  libjpeg-turbo8 (= 2.0.3-0ubuntu1),
+ libjpeg-turbo8-dev (= 2.0.3-0ubuntu1),
  libjpeg8 (= 8c-2ubuntu8),
+ libjpeg8-dev (= 8c-2ubuntu8),
  libjsoncpp1 (= 1.7.4-3.1ubuntu2),
  libk5crypto3 (= 1.17-6ubuntu4),
  libkeyutils1 (= 1.6-6ubuntu1),
  libkrb5-26-heimdal (= 7.7.0+dfsg-1ubuntu1),
  libkrb5-3 (= 1.17-6ubuntu4),
  libkrb5support0 (= 1.17-6ubuntu4),
+ liblcms2-2 (= 2.9-4),
+ liblcms2-dev (= 2.9-4),
  libldap-2.4-2 (= 2.4.49+dfsg-2ubuntu1),
  libldap-common (= 2.4.49+dfsg-2ubuntu1),
  liblsan0 (= 10-20200411-0ubuntu1),
  libltdl7 (= 2.4.6-14),
  liblz4-1 (= 1.9.2-2),
+ liblzma-dev (= 5.2.4-1),
  liblzma5 (= 5.2.4-1),
  libmagic-mgc (= 1:5.38-4),
  libmagic1 (= 1:5.38-4),
@@ -159,7 +172,13 @@ Installed-Build-Depends:
  libncursesw6 (= 6.2-0ubuntu2),
  libnettle7 (= 3.5.1+really3.5.1-2),
  libnghttp2-14 (= 1.40.0-1build1),
+ libnspr4 (= 2:4.25-1),
+ libnspr4-dev (= 2:4.25-1),
+ libnss3 (= 2:3.49.1-1ubuntu1),
+ libnss3-dev (= 2:3.49.1-1ubuntu1),
  libodbc1 (= 2.3.6-0.1build1),
+ libopenjp2-7 (= 2.3.1-1ubuntu4),
+ libopenjp2-7-dev (= 2.3.1-1ubuntu4),
  libp11-kit0 (= 0.23.20-1build1),
  libpam-modules (= 1.3.1-5ubuntu4),
  libpam-modules-bin (= 1.3.1-5ubuntu4),
@@ -169,6 +188,7 @@ Installed-Build-Depends:
  libpcre3 (= 2:8.39-12build1),
  libperl5.30 (= 5.30.0-9build1),
  libpipeline1 (= 1.5.2-2build1),
+ libpng-dev (= 1.6.37-2),
  libpng16-16 (= 1.6.37-2),
  libpq5 (= 12.2-4),
  libprocps8 (= 2:3.3.16-1ubuntu2),
@@ -187,14 +207,16 @@ Installed-Build-Depends:
  libsnappy1v5 (= 1.1.8-1build1),
  libsqlite3-0 (= 3.31.1-4),
  libssh-4 (= 0.9.3-2ubuntu2),
- libssl-dev (= 1.1.1f-1ubuntu2),
  libssl1.1 (= 1.1.1f-1ubuntu2),
  libstdc++-9-dev (= 9.3.0-10ubuntu2),
  libstdc++6 (= 10-20200411-0ubuntu1),
  libsub-override-perl (= 0.09-2),
  libsystemd0 (= 245.4-4ubuntu3),
  libtasn1-6 (= 4.16.0-2),
+ libtiff-dev (= 4.1.0+git191117-2build1),
  libtiff5 (= 4.1.0+git191117-2build1),
+ libtiff5-dev (= 4.1.0+git191117-2build1),
+ libtiffxx5 (= 4.1.0+git191117-2build1),
  libtinfo6 (= 6.2-0ubuntu2),
  libtool (= 2.4.6-14),
  libtsan0 (= 10-20200411-0ubuntu1),
@@ -232,6 +254,7 @@ Installed-Build-Depends:
  perl (= 5.30.0-9build1),
  perl-base (= 5.30.0-9build1),
  perl-modules-5.30 (= 5.30.0-9build1),
+ pkg-config (= 0.29.1-0ubuntu4),
  po-debconf (= 1.0.21),
  procps (= 2:3.3.16-1ubuntu2),
  sed (= 4.7-1),
@@ -241,10 +264,12 @@ Installed-Build-Depends:
  tzdata (= 2019c-3ubuntu1),
  ucf (= 3.0038+nmu1),
  util-linux (= 2.34-0.1ubuntu9),
+ uuid-dev (= 2.34-0.1ubuntu9),
  x11-common (= 1:7.7+19ubuntu14),
  xdg-utils (= 1.1.3-2ubuntu1),
  xz-utils (= 5.2.4-1),
- zlib1g (= 1:1.2.11.dfsg-2ubuntu1)
+ zlib1g (= 1:1.2.11.dfsg-2ubuntu1),
+ zlib1g-dev (= 1:1.2.11.dfsg-2ubuntu1)
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="C"

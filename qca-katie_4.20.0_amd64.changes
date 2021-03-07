@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- 3e3ec14d891b1a513271108b07e748d741eac548 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
- fac0b9b0c40a9c253337714e1018535ffac52467 7983 qca-katie_4.20.0_amd64.buildinfo
- d19419a204d08faa71f3c70924b9706bc5415ba6 634340 qca-katie_4.20.0_amd64.deb
+ 1d6717f82449aee612009d9ff4b69f412dd317ff 7530692 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ 8a9aece24fd6f25dd66f56596cb1c7a95e6fbbd5 7983 qca-katie_4.20.0_amd64.buildinfo
+ f13ccea6249b4c2b589193e2e1f160efabfc6495 625972 qca-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 60a9d52f0a6208a5246e058ebd7402fb821e170cd4fbb850ca04e186f1529d83 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
- 2eaa73a8535f3c242579b74d7942622e4b2d0d5d0c88b7aa6f38d8377b2d9cf8 7983 qca-katie_4.20.0_amd64.buildinfo
- 89fbe20cb73019bc223a6ec65a3da70760fcbdadc965d2648cf5c58af33cd215 634340 qca-katie_4.20.0_amd64.deb
+ e550268cf95bb251156fb4e7da184649fc32d7f18a9bdaa456371ed5e425aec1 7530692 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ 176f5663e4c96730a7dc7fe64502c6c10d5fdc3f2439b170670902c7df426c4e 7983 qca-katie_4.20.0_amd64.buildinfo
+ 2212888642fdd798b3f926a57f0a2ebd6afa9a141acc9886cd966f4b94a5aae0 625972 qca-katie_4.20.0_amd64.deb
 Files:
- 91ad0af90bb7526b5be407831315142e 7676328 debug optional qca-katie-dbgsym_4.20.0_amd64.ddeb
- 9de8e8066400b4f8a0a852dd760a3315 7983 libdevel optional qca-katie_4.20.0_amd64.buildinfo
- 860e77b77623c928958fcff7467e5857 634340 libdevel optional qca-katie_4.20.0_amd64.deb
+ d9e8e48f342a045a67078b6dea0105e2 7530692 debug optional qca-katie-dbgsym_4.20.0_amd64.ddeb
+ 4179fd610c28cfe481e3df290959acca 7983 libdevel optional qca-katie_4.20.0_amd64.buildinfo
+ 216a1dcdee9545e7f16b96ed10816186 625972 libdevel optional qca-katie_4.20.0_amd64.deb
