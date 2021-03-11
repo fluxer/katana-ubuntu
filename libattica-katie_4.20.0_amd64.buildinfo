@@ -14,7 +14,7 @@ Checksums-Sha256:
  80f21bbad2e00c195f209e910a4b9716df6eac8d791d56d04b62724b46cb7246 176852 libattica-katie_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 07 Mar 2021 03:17:25 +0000
+Build-Date: Thu, 11 Mar 2021 20:36:39 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
