@@ -4,17 +4,17 @@ Binary: katana-workspace
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 20ec393b95e189a992f62bfc2638ba6e 203157244 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- 332bcf5e80a7e90590b0ae5d6d2085ed 23675868 katana-workspace_4.20.0_amd64.deb
+ 18817949a7c2885d830da0c518e502a9 203088984 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ bce7c962da5c86eb7123d3cc60f381c5 23670936 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha1:
- 471830124266f4691b8174eb3a618d4bd139cb94 203157244 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- 9a5313c7ab7e76c50140db931485646793d71cca 23675868 katana-workspace_4.20.0_amd64.deb
+ c3c4fa8d8f5f50e0c6202ad2d2e9291132f04c12 203088984 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 8837cd76fe3913d373bdecf048fd1b1b2f8cbe35 23670936 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha256:
- 33fb2254fff0e4cca247a4b551285cab72b3cb1186e31a91fcaa4d4a14978ddc 203157244 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- c4fea5b4a7dd367c26ec55d27ef3c0fe5bf645cf650a29145b2492199aa5616f 23675868 katana-workspace_4.20.0_amd64.deb
+ 68da77227ee663f09f9b83b3c3390ee672a7e3d40dba24f1ac46498ce452908d 203088984 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 7ed8e572598530ce91e0ed41b5ccc1879de0202747060c3ad859f4c86bf83f83 23670936 katana-workspace_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Sun, 07 Mar 2021 15:38:15 +0000
+Build-Date: Thu, 11 Mar 2021 21:41:31 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -65,10 +65,8 @@ Installed-Build-Depends:
  gcc-9-base (= 9.3.0-10ubuntu2),
  gettext (= 0.19.8.1-10build1),
  gettext-base (= 0.19.8.1-10build1),
- gir1.2-freedesktop (= 1.64.0-2),
  gir1.2-glib-2.0 (= 1.64.0-2),
  gir1.2-nm-1.0 (= 1.22.10-1ubuntu1),
- gir1.2-xkl-1.0 (= 5.4-4),
  grep (= 3.4-1),
  groff-base (= 1.22.4-4build1),
  gzip (= 1.10-0ubuntu4),
@@ -530,8 +528,6 @@ Installed-Build-Depends:
  libxkbcommon0 (= 0.10.0-1),
  libxkbfile-dev (= 1:1.1.0-1),
  libxkbfile1 (= 1:1.1.0-1),
- libxklavier-dev (= 5.4-4),
- libxklavier16 (= 5.4-4),
  libxml2 (= 2.9.10+dfsg-5),
  libxml2-dev (= 2.9.10+dfsg-5),
  libxmu-dev (= 2:1.1.3-0ubuntu1),
@@ -621,7 +617,6 @@ Installed-Build-Depends:
  util-linux (= 2.34-0.1ubuntu9),
  uuid-dev (= 2.34-0.1ubuntu9),
  x11-common (= 1:7.7+19ubuntu14),
- x11-xkb-utils (= 7.7+5),
  x11proto-dev (= 2019.2-1ubuntu1),
  x11proto-input-dev (= 2019.2-1ubuntu1),
  x11proto-randr-dev (= 2019.2-1ubuntu1),
