@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- 2451a906ed033f25030c7932a0d494b85c2bea83 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
- 1de8177543cbbc863badaeddaaa493da3e39d2ad 7998 libattica-katie_4.20.0_amd64.buildinfo
- 61b183fb12778df1d4b72dce844794829e8a8fda 176852 libattica-katie_4.20.0_amd64.deb
+ d925a52467f364ddd675ff6d01c7a0db28fcbaaa 4474232 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ 3ca5c2fddd6211f07323ef41bc08c43b027ded62 7998 libattica-katie_4.20.0_amd64.buildinfo
+ a2fabc92e815a1d996e865e8ca41fc0baa0b9e02 176808 libattica-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 46c4c0a71391c86911f5cb4f6f3cefdc9622f7d2c90824529df8bb598c824ddb 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
- 9fed796d933643534c4d58d6d3798e18ceed0c74ccabc9c1c3c5849f9b61d69a 7998 libattica-katie_4.20.0_amd64.buildinfo
- 80f21bbad2e00c195f209e910a4b9716df6eac8d791d56d04b62724b46cb7246 176852 libattica-katie_4.20.0_amd64.deb
+ 9fb0be4434d6efdc29169f6bc6a57c873bd6b5209267f85823a77c8207235dde 4474232 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ b7bef14b235d11226e5a037c1db28c3a489eaae4d1bf669c3e603d1a621e9163 7998 libattica-katie_4.20.0_amd64.buildinfo
+ 963c917096fce44c65b8d2e7840705fb8357f2476baa689508e933d057becee7 176808 libattica-katie_4.20.0_amd64.deb
 Files:
- 7c0322a0bf0c4ecf03003aa32e70ffb6 4472244 debug optional libattica-katie-dbgsym_4.20.0_amd64.ddeb
- 515ea6c246f8ccce0c64256ca14285bc 7998 libdevel optional libattica-katie_4.20.0_amd64.buildinfo
- d37c992d489210e62a5cb143d22a04be 176852 libdevel optional libattica-katie_4.20.0_amd64.deb
+ 2f77f45ee885cac2dfbab2bfa059e3f2 4474232 debug optional libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ 1370319cd41ff852f2ada00e63073170 7998 libdevel optional libattica-katie_4.20.0_amd64.buildinfo
+ 038426b79cf14fe73c184527548327b4 176808 libdevel optional libattica-katie_4.20.0_amd64.deb

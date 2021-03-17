@@ -4,17 +4,17 @@ Binary: katana-workspace
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 18817949a7c2885d830da0c518e502a9 203088984 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- bce7c962da5c86eb7123d3cc60f381c5 23670936 katana-workspace_4.20.0_amd64.deb
+ cc77c059c66106b58ea11747e010fced 203125056 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 822226930f727f25be6efbfd5d50d0d4 23668352 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha1:
- c3c4fa8d8f5f50e0c6202ad2d2e9291132f04c12 203088984 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- 8837cd76fe3913d373bdecf048fd1b1b2f8cbe35 23670936 katana-workspace_4.20.0_amd64.deb
+ d53a8aaf5166ccbf30f1c13a0cef3278bc7d4b46 203125056 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 5f8954e99d8053247ad82c6c0b67da04e0e373f3 23668352 katana-workspace_4.20.0_amd64.deb
 Checksums-Sha256:
- 68da77227ee663f09f9b83b3c3390ee672a7e3d40dba24f1ac46498ce452908d 203088984 katana-workspace-dbgsym_4.20.0_amd64.ddeb
- 7ed8e572598530ce91e0ed41b5ccc1879de0202747060c3ad859f4c86bf83f83 23670936 katana-workspace_4.20.0_amd64.deb
+ cb15eba7a61406d830d2e1e2b86f23dce8aa993a73a3957af7bf580d786635c6 203125056 katana-workspace-dbgsym_4.20.0_amd64.ddeb
+ 5ed51ccd7d00c70a5768e98d0bbb29e0cac43553f0411b3c0a3bd46c3ab22247 23668352 katana-workspace_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 11 Mar 2021 21:41:31 +0000
+Build-Date: Wed, 17 Mar 2021 08:15:50 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:

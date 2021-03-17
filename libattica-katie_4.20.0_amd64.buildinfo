@@ -4,17 +4,17 @@ Binary: libattica-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 7c0322a0bf0c4ecf03003aa32e70ffb6 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
- d37c992d489210e62a5cb143d22a04be 176852 libattica-katie_4.20.0_amd64.deb
+ 2f77f45ee885cac2dfbab2bfa059e3f2 4474232 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ 038426b79cf14fe73c184527548327b4 176808 libattica-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- 2451a906ed033f25030c7932a0d494b85c2bea83 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
- 61b183fb12778df1d4b72dce844794829e8a8fda 176852 libattica-katie_4.20.0_amd64.deb
+ d925a52467f364ddd675ff6d01c7a0db28fcbaaa 4474232 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ a2fabc92e815a1d996e865e8ca41fc0baa0b9e02 176808 libattica-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 46c4c0a71391c86911f5cb4f6f3cefdc9622f7d2c90824529df8bb598c824ddb 4472244 libattica-katie-dbgsym_4.20.0_amd64.ddeb
- 80f21bbad2e00c195f209e910a4b9716df6eac8d791d56d04b62724b46cb7246 176852 libattica-katie_4.20.0_amd64.deb
+ 9fb0be4434d6efdc29169f6bc6a57c873bd6b5209267f85823a77c8207235dde 4474232 libattica-katie-dbgsym_4.20.0_amd64.ddeb
+ 963c917096fce44c65b8d2e7840705fb8357f2476baa689508e933d057becee7 176808 libattica-katie_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 11 Mar 2021 20:36:39 +0000
+Build-Date: Wed, 17 Mar 2021 07:05:06 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:

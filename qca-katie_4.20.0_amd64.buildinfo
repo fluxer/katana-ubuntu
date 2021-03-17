@@ -4,17 +4,17 @@ Binary: qca-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 91ad0af90bb7526b5be407831315142e 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
- 860e77b77623c928958fcff7467e5857 634340 qca-katie_4.20.0_amd64.deb
+ 4944678c2636321d9d7e716e72a7526c 7678512 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ b6d98c51e0a9aea607a848db21a5c139 636056 qca-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- 3e3ec14d891b1a513271108b07e748d741eac548 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
- d19419a204d08faa71f3c70924b9706bc5415ba6 634340 qca-katie_4.20.0_amd64.deb
+ 4abbe91ad742d5465c68a9625cfa5f27152faa70 7678512 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ ae9c0e46e2457c195b7bf1794dabeb3603174aca 636056 qca-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 60a9d52f0a6208a5246e058ebd7402fb821e170cd4fbb850ca04e186f1529d83 7676328 qca-katie-dbgsym_4.20.0_amd64.ddeb
- 89fbe20cb73019bc223a6ec65a3da70760fcbdadc965d2648cf5c58af33cd215 634340 qca-katie_4.20.0_amd64.deb
+ f7714b7d229aa4561fb09f059158fbeeaede7ae244dfca8b55757d362c13f310 7678512 qca-katie-dbgsym_4.20.0_amd64.ddeb
+ b1a385a8ff16c470844fc43f2dca278ec483a6a72f577de71a8ee885a7791f33 636056 qca-katie_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 11 Mar 2021 20:39:30 +0000
+Build-Date: Wed, 17 Mar 2021 07:08:34 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
