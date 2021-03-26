@@ -14,7 +14,7 @@ Checksums-Sha256:
  2b96b4663c12cca479c8deacbfe7b46541d1d3d07004824a50af0a906697ddb9 371588 strigi_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 19 Mar 2021 11:26:39 +0000
+Build-Date: Fri, 26 Mar 2021 12:46:18 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
