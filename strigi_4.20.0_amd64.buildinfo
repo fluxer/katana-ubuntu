@@ -4,17 +4,17 @@ Binary: strigi
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 7f3fbf3090f828915c9a60474caabde0 6617080 strigi-dbgsym_4.20.0_amd64.ddeb
- 08431b7f4b064cef22337aae0fa9f0f2 371588 strigi_4.20.0_amd64.deb
+ e51cc476c47a6dbfe6872b9374259065 6616512 strigi-dbgsym_4.20.0_amd64.ddeb
+ 0c34d31415aba13a79eb4c43a3d9173b 371436 strigi_4.20.0_amd64.deb
 Checksums-Sha1:
- e27d7c93b00b80665f4f1cde76605740dcc2079e 6617080 strigi-dbgsym_4.20.0_amd64.ddeb
- 1a2ecfdc52c11fcc5df8323b5a961e48f851af63 371588 strigi_4.20.0_amd64.deb
+ 248247fe8bef8314b6e5bf23ca0f1d670353e1fa 6616512 strigi-dbgsym_4.20.0_amd64.ddeb
+ 27430fd42f24c229516f79667a7d63f6d5e70393 371436 strigi_4.20.0_amd64.deb
 Checksums-Sha256:
- afe41f762bc2fdc58df73b41f7f721291f381c4b86ac02f72ccda4ed92934170 6617080 strigi-dbgsym_4.20.0_amd64.ddeb
- 2b96b4663c12cca479c8deacbfe7b46541d1d3d07004824a50af0a906697ddb9 371588 strigi_4.20.0_amd64.deb
+ 1fef6c90e93b228cb1c28e93816e4628048687cc882ae3af3404ff78c231ad95 6616512 strigi-dbgsym_4.20.0_amd64.ddeb
+ ca1ee473ecf07584f6d6bbc33102d77e66c25ad98a2b05ab6b0bbc140052e25a 371436 strigi_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 26 Mar 2021 12:46:18 +0000
+Build-Date: Mon, 29 Mar 2021 00:46:34 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -222,8 +222,6 @@ Installed-Build-Depends:
  libsub-override-perl (= 0.09-2),
  libswresample-dev (= 7:4.2.2-1ubuntu1),
  libswresample3 (= 7:4.2.2-1ubuntu1),
- libswscale-dev (= 7:4.2.2-1ubuntu1),
- libswscale5 (= 7:4.2.2-1ubuntu1),
  libsystemd0 (= 245.4-4ubuntu3),
  libtasn1-6 (= 4.16.0-2),
  libthai-data (= 0.1.28-3),

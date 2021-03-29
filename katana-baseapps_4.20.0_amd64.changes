@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- dc2f3f45cb9c743b11600026f9669b0da0bebb42 75732944 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 5ab65fe584fb74e79b839554119ffff647cda4e9 14306 katana-baseapps_4.20.0_amd64.buildinfo
- 139b92504b12b6c4a96e64f98087befb50e86897 4748272 katana-baseapps_4.20.0_amd64.deb
+ 9edd4fb40121785574659f8240dccd35121f0d66 75735600 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ ee7265188e342e9a9135b390bdbfaf23d0f01f42 14306 katana-baseapps_4.20.0_amd64.buildinfo
+ cee7ffa842282b319745f2b7bc3e15a161a6a5c2 4752624 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha256:
- 34d2676d82137eed051984daa6474b9a1c0477243fdfcfdd709c2ec24a04ee1c 75732944 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- a0318d255ec9d0321e57f55a0824a2317be25ffadd572674672f6868ae512f29 14306 katana-baseapps_4.20.0_amd64.buildinfo
- f60957fe7d13c5456a2b5c6ccd4cfbbba493227b26d4e4dce2ba81760541604e 4748272 katana-baseapps_4.20.0_amd64.deb
+ 75de2a8ec56efc275d4f33377318562e2f1230f1e7edbd8d9e8c8bdf2804c278 75735600 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 4ebf3c220282566cbad1490d4cd472b7350e69a26f1494be5ac626eab716a7b7 14306 katana-baseapps_4.20.0_amd64.buildinfo
+ 8100862ac06507748918c3b82f5d91b2be3b6e9c632ff5b2849fad4811862ffb 4752624 katana-baseapps_4.20.0_amd64.deb
 Files:
- 0c7ea5e84bec20fbf8e8be77dd83b362 75732944 debug optional katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 0fa3b999aee5c04e6c5452609e2c5c4b 14306 x11 optional katana-baseapps_4.20.0_amd64.buildinfo
- 0f0249e41e519be21886b6373a542f13 4748272 x11 optional katana-baseapps_4.20.0_amd64.deb
+ a12f5b1236906f0a4e2d8e2eaee56dd9 75735600 debug optional katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 52920f8ed2aa32b736c2d1c77f060026 14306 x11 optional katana-baseapps_4.20.0_amd64.buildinfo
+ 7708e93912d50a28788e9a417700055d 4752624 x11 optional katana-baseapps_4.20.0_amd64.deb
