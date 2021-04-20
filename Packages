@@ -20,10 +20,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 24782
 Depends: katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 5), libx11-6, sudo, ctags, cppcheck
 Filename: ./katana-baseapps_4.20.0_amd64.deb
-Size: 4752624
-MD5sum: 7708e93912d50a28788e9a417700055d
-SHA1: cee7ffa842282b319745f2b7bc3e15a161a6a5c2
-SHA256: 8100862ac06507748918c3b82f5d91b2be3b6e9c632ff5b2849fad4811862ffb
+Size: 4748632
+MD5sum: b63b95d91837c5750729d3dee158cbee
+SHA1: d185d326e51712f36aee3b264861db14644be6e8
+SHA256: c1262ee7c084c687ca31960ba17ca173cf313503a80318b0939268e7c6dd575d
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-baseapps

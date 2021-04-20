@@ -4,17 +4,17 @@ Binary: katana-baseapps
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- a12f5b1236906f0a4e2d8e2eaee56dd9 75735600 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 7708e93912d50a28788e9a417700055d 4752624 katana-baseapps_4.20.0_amd64.deb
+ 3088999618b363986bb291a579415dfb 75773008 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ b63b95d91837c5750729d3dee158cbee 4748632 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha1:
- 9edd4fb40121785574659f8240dccd35121f0d66 75735600 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- cee7ffa842282b319745f2b7bc3e15a161a6a5c2 4752624 katana-baseapps_4.20.0_amd64.deb
+ fec77f6c07da9b59c44f99cff4a2abf54df2938c 75773008 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ d185d326e51712f36aee3b264861db14644be6e8 4748632 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha256:
- 75de2a8ec56efc275d4f33377318562e2f1230f1e7edbd8d9e8c8bdf2804c278 75735600 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 8100862ac06507748918c3b82f5d91b2be3b6e9c632ff5b2849fad4811862ffb 4752624 katana-baseapps_4.20.0_amd64.deb
+ 8729a2665e4af9bebbafbb5a8056fdb60b796ac55d31493d21340674e2baf063 75773008 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ c1262ee7c084c687ca31960ba17ca173cf313503a80318b0939268e7c6dd575d 4748632 katana-baseapps_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 29 Mar 2021 00:44:17 +0000
+Build-Date: Tue, 20 Apr 2021 22:29:18 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -243,6 +243,8 @@ Installed-Build-Depends:
  libnettle7 (= 3.5.1+really3.5.1-2),
  libnghttp2-14 (= 1.40.0-1build1),
  libnorm1 (= 1.5.8+dfsg2-2build1),
+ libnspr4 (= 2:4.25-1),
+ libnss3 (= 2:3.49.1-1ubuntu1),
  libnuma1 (= 2.0.12-1),
  libodbc1 (= 2.3.6-0.1build1),
  libogg0 (= 1.3.4-0ubuntu1),
@@ -268,6 +270,7 @@ Installed-Build-Depends:
  libpipeline1 (= 1.5.2-2build1),
  libpixman-1-0 (= 0.38.4-0ubuntu1),
  libpng16-16 (= 1.6.37-2),
+ libpoppler97 (= 0.86.1-0ubuntu1),
  libpopt0 (= 1.16-14),
  libpostproc55 (= 7:4.2.2-1ubuntu1),
  libpq5 (= 12.2-4),
@@ -420,6 +423,7 @@ Installed-Build-Depends:
  perl-base (= 5.30.0-9build1),
  perl-modules-5.30 (= 5.30.0-9build1),
  po-debconf (= 1.0.21),
+ poppler-utils (= 0.86.1-0ubuntu1),
  procps (= 2:3.3.16-1ubuntu2),
  python3 (= 3.8.2-0ubuntu2),
  python3-minimal (= 3.8.2-0ubuntu2),
