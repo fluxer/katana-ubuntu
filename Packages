@@ -33,14 +33,14 @@ Package: katana-workspace
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 74015
-Depends: katana-baseapps, katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libdbusmenu-katie, libdrm2 (>= 2.3.1), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libgcrypt20 (>= 1.8.0), libgl1, libgps26 (>= 3.3), libice6 (>= 1:1.0.0), libjpeg8 (>= 8c), libmtp9 (>= 1.1.3), libopenexr24 (>= 2.3.0), libpam0g (>= 0.99.7.1), libpci3 (>= 1:3.5.1), libpng16-16 (>= 1.6.2-1), libqalculate20, libraw1394-11, libsensors5 (>= 1:3.5.0), libsm6, libsmbclient (>= 2:4.0.3+dfsg1), libssh-4 (>= 0.8.0), libstdc++6 (>= 5.2), libusb-1.0-0 (>= 2:1.0.16), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxau6, libxcb-composite0, libxcb-damage0, libxcb-keysyms1 (>= 0.4.0), libxcb-randr0, libxcb-render0, libxcb-shape0, libxcb-sync1, libxcb-xfixes0, libxcb1 (>= 1.6), libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxdmcp6, libxext6, libxfixes3, libxft2 (>> 2.1.1), libxi6 (>= 2:1.2.99.4), libxinerama1, libxkbfile1 (>= 1:1.1.0), libxrandr2 (>= 2:1.2.99.3), libxrender1, libxres1 (>= 2:1.2.0), libxtst6, libxxf86vm1, strigi, zlib1g (>= 1:1.1.4), ariya-icons, gdb, xterm, upower, xserver-xorg, x11-xserver-utils, x11-xkb-utils, x11-utils, ttf-dejavu, lm-sensors, pciutils, icoutils, dbus-x11, iso-codes, djvulibre-bin, mtools, fortune, katie-tools, adduser
+Installed-Size: 74011
+Depends: katana-baseapps, katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libdbusmenu-katie, libdrm2 (>= 2.3.1), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libgl1, libgps26 (>= 3.3), libice6 (>= 1:1.0.0), libjpeg8 (>= 8c), libmtp9 (>= 1.1.3), libopenexr24 (>= 2.3.0), libpam0g (>= 0.99.7.1), libpci3 (>= 1:3.5.1), libpng16-16 (>= 1.6.2-1), libqalculate20, libraw1394-11, libsensors5 (>= 1:3.5.0), libsm6, libsmbclient (>= 2:4.0.3+dfsg1), libssh-4 (>= 0.8.0), libstdc++6 (>= 5.2), libusb-1.0-0 (>= 2:1.0.16), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxau6, libxcb-composite0, libxcb-damage0, libxcb-keysyms1 (>= 0.4.0), libxcb-randr0, libxcb-render0, libxcb-shape0, libxcb-sync1, libxcb-xfixes0, libxcb1 (>= 1.6), libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxdmcp6, libxext6, libxfixes3, libxft2 (>> 2.1.1), libxi6 (>= 2:1.2.99.4), libxinerama1, libxkbfile1 (>= 1:1.1.0), libxrandr2 (>= 2:1.2.99.3), libxrender1, libxres1 (>= 2:1.2.0), libxtst6, libxxf86vm1, strigi, zlib1g (>= 1:1.1.4), ariya-icons, gdb, xterm, upower, xserver-xorg, x11-xserver-utils, x11-xkb-utils, x11-utils, ttf-dejavu, lm-sensors, pciutils, icoutils, dbus-x11, iso-codes, djvulibre-bin, mtools, fortune, katie-tools, adduser
 Recommends: rar, unrar
 Filename: ./katana-workspace_4.20.0_amd64.deb
-Size: 23446132
-MD5sum: ab5b2036b6e342906bedb34c09f4f7a8
-SHA1: 7022ca24e411d74a8051d2760c30d105fd6fb5c9
-SHA256: c4b3ad640970425f32c447e470a6ccf9f0b65cfd20e598d5aa1bf24cffa72a85
+Size: 23446416
+MD5sum: 09791f6d756600dbbd406b16c1a2d1b4
+SHA1: d617db01b36fce70aeccc095ec51ae9e0a8f80b2
+SHA256: 8b11f9c6e3cb938f7482c4231ee92f50dfd3334e4623ed4e2e3bee52d1845f16
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-workspace
