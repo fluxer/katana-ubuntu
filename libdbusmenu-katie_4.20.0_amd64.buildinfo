@@ -14,7 +14,7 @@ Checksums-Sha256:
  b4f9ac0a667ebce8bb1303066f4386f3f67e12a1d120cd12ac4d556eaee9dc5a 61720 libdbusmenu-katie_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Wed, 02 Jun 2021 11:53:04 +0000
+Build-Date: Mon, 07 Jun 2021 17:29:06 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:

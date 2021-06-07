@@ -16,13 +16,13 @@ Changes:
    * Package update
 Checksums-Sha1:
  1e3baa9fd079a1023588d5ca6052c22f6087efbe 1035732 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
- 56847df42525258018e00ab0f69a2c1cc5b09d6c 8011 libdbusmenu-katie_4.20.0_amd64.buildinfo
+ 864d1e47f9f2ff791f2ef41018c7da8a9a179379 8011 libdbusmenu-katie_4.20.0_amd64.buildinfo
  f69b4d4007b34c7a776f7d7e38b1cfc2e46be936 61720 libdbusmenu-katie_4.20.0_amd64.deb
 Checksums-Sha256:
  1a5bbdf4eca502a5dff45f84d5e74524eb74a5e3d6bc929378f0c544c5b60dcb 1035732 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
- c9611c7300f78af28692b7f93737526394b92ad303c5d0f93dd27705309ea7f8 8011 libdbusmenu-katie_4.20.0_amd64.buildinfo
+ 4ac584060f19ae6408f81edd8e15227bd1ad6f74da2aada13a15b5aefde69eff 8011 libdbusmenu-katie_4.20.0_amd64.buildinfo
  b4f9ac0a667ebce8bb1303066f4386f3f67e12a1d120cd12ac4d556eaee9dc5a 61720 libdbusmenu-katie_4.20.0_amd64.deb
 Files:
  436c8ee37b7d5f26db677b67a13c0600 1035732 debug optional libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
- 2bcc479cca565e8782b3c54d07ea425b 8011 libdevel optional libdbusmenu-katie_4.20.0_amd64.buildinfo
+ 6ba6fa5e378afed62cc1e8061c163a01 8011 libdevel optional libdbusmenu-katie_4.20.0_amd64.buildinfo
  a2db7cd5d113c6c2e0a2f38f5826269c 61720 libdevel optional libdbusmenu-katie_4.20.0_amd64.deb
