@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- cd96a39f8365e9002ab8d90c402c0bbc459349bf 6527712 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
- 154bc61904931dc4420496b73e96b5e46273962a 8873 libpoppler-katie_4.20.0_amd64.buildinfo
- 00d8d085513e31eb97f600c12d1d0c28246a3e5d 964944 libpoppler-katie_4.20.0_amd64.deb
+ 36d350bf77d727343579adbbc6a2aea0c80875a2 6527912 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
+ 513d3dd07ab10f6c22c78048258d738a3b133746 8873 libpoppler-katie_4.20.0_amd64.buildinfo
+ 58d3218d0cd3521e21755bcb77131e3af6b7a2b8 964200 libpoppler-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 61eead03e40d1b7646d016b32eb9767985ecf3fbcd0ee019659c237ffb250cd3 6527712 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
- cdb740eb4f435ea18656bd7252af0968aa9b81527c0325c709b454315de44535 8873 libpoppler-katie_4.20.0_amd64.buildinfo
- 9610a520cbb435ddc02d2056740b1a1106a0bb44496633a1ea0419efe6168252 964944 libpoppler-katie_4.20.0_amd64.deb
+ 4f25f9fc02f74338289989d948bf9f2bf3c295417f7b4929ee71130ffce62681 6527912 libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
+ 1a6cdf9b661ce193359463d750111217f91021f7973b07ad846181f67bc0d83a 8873 libpoppler-katie_4.20.0_amd64.buildinfo
+ 8e1218119be63716ea7ac4d4b58f0ca24f9e87289cc600d822ae488601b7eef3 964200 libpoppler-katie_4.20.0_amd64.deb
 Files:
- 59c49229a1bfe1b45877f430267ed03c 6527712 debug optional libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
- af9e57079533de96e21bdcc487b550db 8873 libdevel optional libpoppler-katie_4.20.0_amd64.buildinfo
- eb41403da2159e8b853269ffb6299cc1 964944 libdevel optional libpoppler-katie_4.20.0_amd64.deb
+ c0e1213fb2c542fa01f48f1bf7cc5f75 6527912 debug optional libpoppler-katie-dbgsym_4.20.0_amd64.ddeb
+ 5434a6d11a3e49782536b77f66994f26 8873 libdevel optional libpoppler-katie_4.20.0_amd64.buildinfo
+ a242b0dbda58b74ed7447ea4f18f759f 964200 libdevel optional libpoppler-katie_4.20.0_amd64.deb

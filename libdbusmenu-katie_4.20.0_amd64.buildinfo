@@ -4,17 +4,17 @@ Binary: libdbusmenu-katie
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 436c8ee37b7d5f26db677b67a13c0600 1035732 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
- a2db7cd5d113c6c2e0a2f38f5826269c 61720 libdbusmenu-katie_4.20.0_amd64.deb
+ 0f30b728925f13ea322665312a77e504 1036064 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
+ 68733213e9438a6e7b5260d7a4eecc0b 61708 libdbusmenu-katie_4.20.0_amd64.deb
 Checksums-Sha1:
- 1e3baa9fd079a1023588d5ca6052c22f6087efbe 1035732 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
- f69b4d4007b34c7a776f7d7e38b1cfc2e46be936 61720 libdbusmenu-katie_4.20.0_amd64.deb
+ 3c263dd7df9a1f5ff121e93dffa53be40171e712 1036064 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
+ 3594461e1e6b7b2a9fa6db0f801bf02c6b4e5d19 61708 libdbusmenu-katie_4.20.0_amd64.deb
 Checksums-Sha256:
- 1a5bbdf4eca502a5dff45f84d5e74524eb74a5e3d6bc929378f0c544c5b60dcb 1035732 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
- b4f9ac0a667ebce8bb1303066f4386f3f67e12a1d120cd12ac4d556eaee9dc5a 61720 libdbusmenu-katie_4.20.0_amd64.deb
+ ebf82ed9c69bdc37f8d2319f66f15f6d7eb1bb25871eb0d80157e08cf6b37f44 1036064 libdbusmenu-katie-dbgsym_4.20.0_amd64.ddeb
+ c415b3fb8c918d48f39bfd3cf3732a239e62914b6d5b011f9cc331c3d0ef8b4a 61708 libdbusmenu-katie_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Mon, 07 Jun 2021 17:29:06 +0000
+Build-Date: Fri, 11 Jun 2021 08:13:27 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
