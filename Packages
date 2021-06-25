@@ -115,10 +115,10 @@ Installed-Size: 34170
 Depends: libc6 (>= 2.29), libcups2 (>= 1.4.0), libdbus-1-3 (>= 1.9.14), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libice6 (>= 1:1.0.0), libicu66 (>= 66.1-1~), libjansson4 (>= 2.7), libjpeg8 (>= 8c), libmariadbd19, libodbc1 (>= 2.3.1), libpcre3, libpng16-16 (>= 1.6.2-1), libpq5, libsm6, libsqlite3-0 (>= 3.5.9), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5), libtiff5 (>= 4.0.3), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxinerama1, libxrandr2, libxrender1, libzstd1 (>= 1.3.2), zlib1g (>= 1:1.2.0), xdg-utils
 Recommends: unixodbc, libmariadbclient, xserver-xorg-core
 Filename: ./katie-runtime_4.10.0_amd64.deb
-Size: 8734312
-MD5sum: 22aeef3d1edd301f4a208660d9f33309
-SHA1: 405023b88fd17b451562954a6a65d67a2183b978
-SHA256: c0f25adfa1b7525376c358d7fa286c30d2e99d880a9ad8dbe31eef428cae2a5f
+Size: 8728836
+MD5sum: d84bcf30abfae01be137e86c2698697e
+SHA1: 6287a66653a117df953044a0aa55ba7c75afe8de
+SHA256: 3b5d280f4f50fa9809c714969983a77ccd65ce8627393b636b24c5a75bb5c570
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
