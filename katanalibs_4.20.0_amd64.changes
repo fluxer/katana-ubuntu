@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- 11bf89ac0759e711dcc93a93355467e92c545ce0 109360344 katanalibs-dbgsym_4.20.0_amd64.ddeb
- 8dc3830a50e2d850ac9028aeeb02e2b69fc38713 18750 katanalibs_4.20.0_amd64.buildinfo
- 0ab3646098ff854152eee5c5bbf8a98e9b69d951 7875616 katanalibs_4.20.0_amd64.deb
+ bfe78ecbaeae3b0d9893b47e34d6d8d0b108c072 109358352 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ fa5bd6c3b941e66797712d144e1df3be5877271e 18790 katanalibs_4.20.0_amd64.buildinfo
+ ad061b7fd9498d53a6b8c3452e9003c0cb43265c 7873124 katanalibs_4.20.0_amd64.deb
 Checksums-Sha256:
- f5da2ea7eae40cb3ea6c2b692f9692dc9680f4abc54b355a6fc00430750ec612 109360344 katanalibs-dbgsym_4.20.0_amd64.ddeb
- 5da2305d34c43ddcee5773eb9f3cf66933f5ecc558b5cbf10058400317625181 18750 katanalibs_4.20.0_amd64.buildinfo
- 804dcc8c2e676e3410e55fa10bfe5206c0a89730326ac9ca1ab70679d597dae2 7875616 katanalibs_4.20.0_amd64.deb
+ e1ac9c830d66955a021e590b92cbe60cd37222224fe3c862d635a5803ca66be3 109358352 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ c6f1c3b307f3865bfaad73554fa1572787253639ae56afb0d5659974f88f001c 18790 katanalibs_4.20.0_amd64.buildinfo
+ 247d7bab801bc5ce6804533815ce94c7c890b001da00782230416433b945d13b 7873124 katanalibs_4.20.0_amd64.deb
 Files:
- f2c3bf6dd9ed0c16d86a20dff1bf4bca 109360344 debug optional katanalibs-dbgsym_4.20.0_amd64.ddeb
- dcfd8ab22fc10e53278a79de65bdcc2e 18750 x11 optional katanalibs_4.20.0_amd64.buildinfo
- 8917aba52a1fb9985d4cf8f0bd6c615e 7875616 x11 optional katanalibs_4.20.0_amd64.deb
+ 9a187f0772bd3fb55e0177cfd321d827 109358352 debug optional katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 03b1e54cdfc2afab868b795cbb3633fb 18790 x11 optional katanalibs_4.20.0_amd64.buildinfo
+ 24d0eb6e772d8486a8b9e58513583fd0 7873124 x11 optional katanalibs_4.20.0_amd64.deb
