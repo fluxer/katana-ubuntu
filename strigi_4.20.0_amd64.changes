@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- fd8173c77867c6a1b52fed2364102ae6a7d520b1 6492540 strigi-dbgsym_4.20.0_amd64.ddeb
- 88c0a381ab0e8369243f7ccb6e965bf9ce4d0067 9587 strigi_4.20.0_amd64.buildinfo
- df962592f3c5a067695bf926492f247282ba6be2 362236 strigi_4.20.0_amd64.deb
+ 796186a9609eccb4ee1c498e9328e84735a63589 6365664 strigi-dbgsym_4.20.0_amd64.ddeb
+ 844ba1f949c27ca6c18ef8d2c95204f6a6432187 9587 strigi_4.20.0_amd64.buildinfo
+ c300300e6e3f9094cf8a62d680eec1dca7514574 356236 strigi_4.20.0_amd64.deb
 Checksums-Sha256:
- 5ed837876ef67bd5f3c12ea49fbbd40f0c2f92a4e153190b3f9becc164442cf6 6492540 strigi-dbgsym_4.20.0_amd64.ddeb
- c1a1151cc4624694f38aa7f906b10616bed9fb5e92c90936963fcf71a33d57b3 9587 strigi_4.20.0_amd64.buildinfo
- 3db8172ad7e48276b87bf34cbf007aa89d55e1e40ef798f6e42c82b3428b2a2c 362236 strigi_4.20.0_amd64.deb
+ 4df3f32c44814d1ad3954bdf3d82332d0e53898f621c5840fafaf44498adc636 6365664 strigi-dbgsym_4.20.0_amd64.ddeb
+ 7092a18c010560ef43c42c300c6f49e2f3000870e36df62d247467585fe289ef 9587 strigi_4.20.0_amd64.buildinfo
+ 7495413a41d890ee871a2bbf3531673fd81a0904e7213145741b6064f5d8a4ee 356236 strigi_4.20.0_amd64.deb
 Files:
- 7e3a8c03824873ac52c6884de23ec240 6492540 debug optional strigi-dbgsym_4.20.0_amd64.ddeb
- d3825fb622e0c93d34d6012586eceff8 9587 libdevel optional strigi_4.20.0_amd64.buildinfo
- 17f81df4eb8d6c7498edba7f7982a623 362236 libdevel optional strigi_4.20.0_amd64.deb
+ 260053655b60179e279b859b8c22a5b4 6365664 debug optional strigi-dbgsym_4.20.0_amd64.ddeb
+ c0baeb7e5b882c6f3728e0de7bda449e 9587 libdevel optional strigi_4.20.0_amd64.buildinfo
+ 70aaf6b8b0a890b9c80d254b1d70c06b 356236 libdevel optional strigi_4.20.0_amd64.deb

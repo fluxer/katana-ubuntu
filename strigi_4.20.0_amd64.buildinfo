@@ -4,17 +4,17 @@ Binary: strigi
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 7e3a8c03824873ac52c6884de23ec240 6492540 strigi-dbgsym_4.20.0_amd64.ddeb
- 17f81df4eb8d6c7498edba7f7982a623 362236 strigi_4.20.0_amd64.deb
+ 260053655b60179e279b859b8c22a5b4 6365664 strigi-dbgsym_4.20.0_amd64.ddeb
+ 70aaf6b8b0a890b9c80d254b1d70c06b 356236 strigi_4.20.0_amd64.deb
 Checksums-Sha1:
- fd8173c77867c6a1b52fed2364102ae6a7d520b1 6492540 strigi-dbgsym_4.20.0_amd64.ddeb
- df962592f3c5a067695bf926492f247282ba6be2 362236 strigi_4.20.0_amd64.deb
+ 796186a9609eccb4ee1c498e9328e84735a63589 6365664 strigi-dbgsym_4.20.0_amd64.ddeb
+ c300300e6e3f9094cf8a62d680eec1dca7514574 356236 strigi_4.20.0_amd64.deb
 Checksums-Sha256:
- 5ed837876ef67bd5f3c12ea49fbbd40f0c2f92a4e153190b3f9becc164442cf6 6492540 strigi-dbgsym_4.20.0_amd64.ddeb
- 3db8172ad7e48276b87bf34cbf007aa89d55e1e40ef798f6e42c82b3428b2a2c 362236 strigi_4.20.0_amd64.deb
+ 4df3f32c44814d1ad3954bdf3d82332d0e53898f621c5840fafaf44498adc636 6365664 strigi-dbgsym_4.20.0_amd64.ddeb
+ 7495413a41d890ee871a2bbf3531673fd81a0904e7213145741b6064f5d8a4ee 356236 strigi_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 29 Jun 2021 14:49:07 +0000
+Build-Date: Thu, 01 Jul 2021 08:52:21 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:

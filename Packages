@@ -17,13 +17,13 @@ Package: katana-baseapps
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 24592
+Installed-Size: 24593
 Depends: katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libgcc-s1 (>= 3.0), libstdc++6 (>= 5), libx11-6, xauth, sudo, ctags, cppcheck, lrzsz, libxml2-utils, locate
 Filename: ./katana-baseapps_4.20.0_amd64.deb
-Size: 4705024
-MD5sum: f5fe84a18a96996ff4223c711ecea834
-SHA1: 83a6666b4964e4b5fa7eebf0bf1a8138aca2d9f0
-SHA256: 2d8b392c6e40ce7a47e242255032e001580e25659199bc801ecb85733d6fd0c5
+Size: 4705044
+MD5sum: 43f2d36473a94b5d238503a1eed1142c
+SHA1: 55e19edb3d4cb2816c2f760833fb3412ac4b3d6c
+SHA256: 81196ea2d813298c3c3065811dd16fe669a5122d87b0d699ed13ab8b6e33e26b
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-baseapps
@@ -33,14 +33,14 @@ Package: katana-workspace
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 74539
+Installed-Size: 74440
 Depends: katana-baseapps, katanalibs, katie-runtime (>= 4.10.0), libc6 (>= 2.29), libdbusmenu-katie, libdrm2 (>= 2.3.1), libegl1, libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libgl1, libglu1-mesa | libglu1, libgps26 (>= 3.3), libice6 (>= 1:1.0.0), libjpeg8 (>= 8c), libmtp9 (>= 1.1.3), libopenexr24 (>= 2.3.0), libpam0g (>= 0.99.7.1), libpci3 (>= 1:3.5.1), libpng16-16 (>= 1.6.2-1), libqalculate20, libraw1394-11, libsensors5 (>= 1:3.5.0), libsm6, libsmbclient (>= 2:4.0.3+dfsg1), libssh-4 (>= 0.8.0), libstdc++6 (>= 5.2), libusb-1.0-0 (>= 2:1.0.16), libx11-6, libx11-xcb1 (>= 2:1.6.9), libxau6, libxcb-composite0, libxcb-damage0, libxcb-keysyms1 (>= 0.4.0), libxcb-randr0, libxcb-render0, libxcb-shape0, libxcb-sync1, libxcb-xfixes0, libxcb1 (>= 1.6), libxcomposite1 (>= 1:0.4.5), libxcursor1 (>> 1.1.2), libxdamage1 (>= 1:1.1), libxdmcp6, libxext6, libxfixes3, libxft2 (>> 2.1.1), libxi6 (>= 2:1.2.99.4), libxinerama1, libxkbfile1 (>= 1:1.1.0), libxrandr2 (>= 2:1.2.99.3), libxrender1, libxres1 (>= 2:1.2.0), libxtst6, libxxf86vm1, strigi, zlib1g (>= 1:1.1.4), ariya-icons, gdb, xterm, upower, xserver-xorg, x11-xserver-utils, x11-xkb-utils, x11-utils, ttf-dejavu, lm-sensors, pciutils, icoutils, dbus-x11, iso-codes, djvulibre-bin, mtools, fortune, katie-tools, adduser, samba
 Recommends: rar, unrar
 Filename: ./katana-workspace_4.20.0_amd64.deb
-Size: 23595100
-MD5sum: 4475913d8b0444fa27671aae78bbeefa
-SHA1: 8a17d9e5f228d62c94502bf0795b329bc1350067
-SHA256: 9ba7241d1ce5b2d87f17a1cb4e501fcfd655a83506be54ec85ca4d3c15e08b9c
+Size: 23582372
+MD5sum: ec388d1a54825f52b3353ddf4533c0d3
+SHA1: b9903604eb85d636178bcf6aa8435ff5781ff3e7
+SHA256: ba28f638d7d8dbce83a794d030603abc127c93c37d69b16845475d5ef11ef948
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kde-workspace
@@ -50,13 +50,13 @@ Package: katanalibs
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 31814
+Installed-Size: 31783
 Depends: katie-runtime (>= 4.10.0), libacl1 (>= 2.2.23), libbz2-1.0, libc6 (>= 2.29), libcdio18 (>= 2.0.0), libdbusmenu-katie, libenchant1c2a (>= 1.6.0), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libgssapi-krb5-2 (>= 1.17), libice6 (>= 1:1.0.0), libilmbase24 (>= 2.3.0), liblzma5 (>= 5.1.1alpha+20120614), libmpv1 (>= 0.7.0), libopenexr24 (>= 2.3.0), libraw19 (>= 0.19.0), libsm6, libstdc++6 (>= 5.2), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, strigi, zlib1g (>= 1:1.1.4), xdg-utils, shared-mime-info, media-player-info
 Filename: ./katanalibs_4.20.0_amd64.deb
-Size: 7873124
-MD5sum: 24d0eb6e772d8486a8b9e58513583fd0
-SHA1: ad061b7fd9498d53a6b8c3452e9003c0cb43265c
-SHA256: 247d7bab801bc5ce6804533815ce94c7c890b001da00782230416433b945d13b
+Size: 7871812
+MD5sum: a15d91934eed24e379805554dde23ac6
+SHA1: 13ca406abdb5924b8b6730f484cb5dfec7dc76af
+SHA256: cfc88d99928de7c100aeffad74761d39ffc0d95312567ff1c5622b99ba019509
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kdelibs
@@ -188,13 +188,13 @@ Package: strigi
 Version: 4.20.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 1780
+Installed-Size: 1760
 Depends: libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libbz2-1.0, libc6 (>= 2.29), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libmagic1 (>= 5.12), libstdc++6 (>= 9), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), poppler-utils
 Filename: ./strigi_4.20.0_amd64.deb
-Size: 362236
-MD5sum: 17f81df4eb8d6c7498edba7f7982a623
-SHA1: df962592f3c5a067695bf926492f247282ba6be2
-SHA256: 3db8172ad7e48276b87bf34cbf007aa89d55e1e40ef798f6e42c82b3428b2a2c
+Size: 356236
+MD5sum: 70aaf6b8b0a890b9c80d254b1d70c06b
+SHA1: c300300e6e3f9094cf8a62d680eec1dca7514574
+SHA256: 7495413a41d890ee871a2bbf3531673fd81a0904e7213145741b6064f5d8a4ee
 Section: libdevel
 Priority: optional
 Homepage: https://github.com/fluxer/strigi

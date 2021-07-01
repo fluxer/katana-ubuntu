@@ -4,17 +4,17 @@ Binary: katana-baseapps
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 8b8bb248125174868699429983ecf15e 74878812 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- f5fe84a18a96996ff4223c711ecea834 4705024 katana-baseapps_4.20.0_amd64.deb
+ a5d15103be195527cad35aa2643a3605 74880872 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 43f2d36473a94b5d238503a1eed1142c 4705044 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha1:
- a6b7fca6cda32c677cdad464a1d7838684c257d1 74878812 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 83a6666b4964e4b5fa7eebf0bf1a8138aca2d9f0 4705024 katana-baseapps_4.20.0_amd64.deb
+ 6b8d7670d28f4040d65dc0b2a6c5396028406e0b 74880872 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 55e19edb3d4cb2816c2f760833fb3412ac4b3d6c 4705044 katana-baseapps_4.20.0_amd64.deb
 Checksums-Sha256:
- cf0d5a3bc98a1e8ab26647f41531a594184c7d85fc38a37904211509bb5fcc29 74878812 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
- 2d8b392c6e40ce7a47e242255032e001580e25659199bc801ecb85733d6fd0c5 4705024 katana-baseapps_4.20.0_amd64.deb
+ 5cd9d52dbcaf88d40cd8edb7811ad8f639d81398c7ae00c0f8723400a1cf3c51 74880872 katana-baseapps-dbgsym_4.20.0_amd64.ddeb
+ 81196ea2d813298c3c3065811dd16fe669a5122d87b0d699ed13ab8b6e33e26b 4705044 katana-baseapps_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Tue, 29 Jun 2021 09:30:31 +0000
+Build-Date: Thu, 01 Jul 2021 08:50:36 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
