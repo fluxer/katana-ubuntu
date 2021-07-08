@@ -53,10 +53,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 33854
 Depends: katie-runtime (>= 4.10.0), libacl1 (>= 2.2.23), libbz2-1.0, libc6 (>= 2.29), libcdio18 (>= 2.0.0), libdbusmenu-katie, libenchant1c2a (>= 1.6.0), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libgssapi-krb5-2 (>= 1.17), libice6 (>= 1:1.0.0), libilmbase24 (>= 2.3.0), liblzma5 (>= 5.1.1alpha+20120614), libmpv1 (>= 0.7.0), libopenexr24 (>= 2.3.0), libraw19 (>= 0.19.0), libsm6, libstdc++6 (>= 5.2), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, strigi, zlib1g (>= 1:1.1.4), xdg-utils, shared-mime-info, media-player-info
 Filename: ./katanalibs_4.20.0_amd64.deb
-Size: 8228920
-MD5sum: 2bac9ff846483049245a2a5072504a44
-SHA1: 6946cc2d65f1b8bb603f71761987d08f0c720454
-SHA256: d1315f6e57058f7053ad914ddeb9d7fde766375e29a5462f31abddaf924b9a09
+Size: 8223620
+MD5sum: e3cdd0309e0efed8e5b7bbca9dac8d77
+SHA1: 98ba9d4c7c577003dbb88178c341b4a8d00fc2d4
+SHA256: 3a0557e76832363eea0a16a0bda43fe596d67f1e04ce1dca3eba6d6036b9734a
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kdelibs
