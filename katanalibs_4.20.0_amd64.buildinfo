@@ -4,17 +4,17 @@ Binary: katanalibs
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 2bb7185dde2c1fd07305078721c96c1f 109198324 katanalibs-dbgsym_4.20.0_amd64.ddeb
- a15d91934eed24e379805554dde23ac6 7871812 katanalibs_4.20.0_amd64.deb
+ a566d7f7d929f48bac0ce42147c8ef5a 107749140 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 2bac9ff846483049245a2a5072504a44 8228920 katanalibs_4.20.0_amd64.deb
 Checksums-Sha1:
- 2989575129c630c462d338e15bc3719b3f2fc93e 109198324 katanalibs-dbgsym_4.20.0_amd64.ddeb
- 13ca406abdb5924b8b6730f484cb5dfec7dc76af 7871812 katanalibs_4.20.0_amd64.deb
+ ac5ab8af7556c6c4a5816bd3b8f6ac8d76fd3b42 107749140 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 6946cc2d65f1b8bb603f71761987d08f0c720454 8228920 katanalibs_4.20.0_amd64.deb
 Checksums-Sha256:
- 1bdfb4c640e1c97dfd98cb9b3bbf0443058df76acf0870082f5eea23c7b254fa 109198324 katanalibs-dbgsym_4.20.0_amd64.ddeb
- cfc88d99928de7c100aeffad74761d39ffc0d95312567ff1c5622b99ba019509 7871812 katanalibs_4.20.0_amd64.deb
+ 053dbe393bf0313c2d6b5351646cd3bf7643c2d1606379d3b4d112c0702d583b 107749140 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ d1315f6e57058f7053ad914ddeb9d7fde766375e29a5462f31abddaf924b9a09 8228920 katanalibs_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 01 Jul 2021 08:38:41 +0000
+Build-Date: Thu, 08 Jul 2021 09:41:56 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -565,7 +565,6 @@ Installed-Build-Depends:
  util-linux (= 2.34-0.1ubuntu9),
  uuid-dev (= 2.34-0.1ubuntu9),
  x11-common (= 1:7.7+19ubuntu14),
- x11proto-core-dev (= 2019.2-1ubuntu1),
  x11proto-dev (= 2019.2-1ubuntu1),
  x11proto-input-dev (= 2019.2-1ubuntu1),
  x11proto-randr-dev (= 2019.2-1ubuntu1),
