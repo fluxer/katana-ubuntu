@@ -4,17 +4,17 @@ Binary: katanalibs
 Architecture: amd64
 Version: 4.20.0
 Checksums-Md5:
- 4ab2a159fd65f59f75f114c17ec55f27 107756176 katanalibs-dbgsym_4.20.0_amd64.ddeb
- e3cdd0309e0efed8e5b7bbca9dac8d77 8223620 katanalibs_4.20.0_amd64.deb
+ a0cd269bca9c1343e2d8e38c77d5c89b 107342256 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 7907d3d0467b7604905000c7c1c21106 8213124 katanalibs_4.20.0_amd64.deb
 Checksums-Sha1:
- 453f69582c57a24013a3c78828deb33009f451cc 107756176 katanalibs-dbgsym_4.20.0_amd64.ddeb
- 98ba9d4c7c577003dbb88178c341b4a8d00fc2d4 8223620 katanalibs_4.20.0_amd64.deb
+ 4acf621d2207a55b4ef9e857361a1260a80fcad6 107342256 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 11b8faabd6f8f04d0d64fffbe219d5381304e158 8213124 katanalibs_4.20.0_amd64.deb
 Checksums-Sha256:
- 6c57c0b1d18f3fbfe544983b1e5ee6c6f1c50680e9c0b0483747da757944823a 107756176 katanalibs-dbgsym_4.20.0_amd64.ddeb
- 3a0557e76832363eea0a16a0bda43fe596d67f1e04ce1dca3eba6d6036b9734a 8223620 katanalibs_4.20.0_amd64.deb
+ 22465af51ba27421bef3dad7cdf9a676579485e5280e095c86927927e916b7c8 107342256 katanalibs-dbgsym_4.20.0_amd64.ddeb
+ 373caa12b9f07bf5e461d1a371752227a29de3dc44ef0f1ec902c102438b8354 8213124 katanalibs_4.20.0_amd64.deb
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Thu, 08 Jul 2021 12:01:33 +0000
+Build-Date: Tue, 13 Jul 2021 11:08:31 +0000
 Build-Tainted-By:
  merged-usr-via-symlinks
 Installed-Build-Depends:
@@ -552,6 +552,7 @@ Installed-Build-Depends:
  samba-libs (= 2:4.11.6+dfsg-0ubuntu1),
  sed (= 4.7-1),
  sensible-utils (= 0.0.12+nmu1),
+ shared-mime-info (= 1.15-1),
  strigi (= 4.20.0),
  systemd (= 245.4-4ubuntu3),
  systemd-sysv (= 245.4-4ubuntu3),
