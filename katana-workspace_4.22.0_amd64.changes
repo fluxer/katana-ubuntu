@@ -1,0 +1,28 @@
+Format: 1.8
+Date: Thu, 12 May 2022 04:17:36 +0200
+Source: katana-workspace
+Binary: katana-workspace
+Architecture: amd64
+Version: 4.22.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ katana-workspace - Katana workspace interface, base applications and tools
+Changes:
+ katana-workspace (4.22.0) unstable; urgency=medium
+ .
+   * Package update
+Checksums-Sha1:
+ 2cc7b9a97b4859afdaf80a692041f64253f852f4 213703992 katana-workspace-dbgsym_4.22.0_amd64.ddeb
+ b51c206d4a6c137ab2f0c0478f5f6e043b4bb074 20299 katana-workspace_4.22.0_amd64.buildinfo
+ 30aee6d20b4b1f8c4a53f46f20ce9997840bb3e1 22743604 katana-workspace_4.22.0_amd64.deb
+Checksums-Sha256:
+ 05e22d8da38c4e503e74bb1ab44f4e5b5878ee9aae6b4d5457683317d3f0c772 213703992 katana-workspace-dbgsym_4.22.0_amd64.ddeb
+ 77c32467d53065eda800ae93e002c47a6ae9374c35208cb671cbd16fe0779120 20299 katana-workspace_4.22.0_amd64.buildinfo
+ 824b3256bd156ca701c78f3e9e92adbfd5a25a888ff3bfa8e97b9c863bfe43ca 22743604 katana-workspace_4.22.0_amd64.deb
+Files:
+ 7f6acedc07c6e81acd948dbfef96f341 213703992 debug optional katana-workspace-dbgsym_4.22.0_amd64.ddeb
+ cdbf934c1b81ba37ff9666dc35c3726f 20299 x11 optional katana-workspace_4.22.0_amd64.buildinfo
+ 7ce9da353ec8e27fb8e026314d21f0aa 22743604 x11 optional katana-workspace_4.22.0_amd64.deb

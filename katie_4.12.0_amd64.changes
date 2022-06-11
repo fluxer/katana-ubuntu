@@ -1,0 +1,43 @@
+Format: 1.8
+Date: Tue, 14 Dec 2021 09:36:46 +0200
+Source: katie
+Binary: katie-dev katie-doc katie-runtime katie-tools
+Architecture: amd64 all
+Version: 4.12.0
+Distribution: unstable
+Urgency: medium
+Maintainer: Ivailo Monev <xakepa10@gmail.com>
+Changed-By: Ivailo Monev <xakepa10@gmail.com>
+Description:
+ katie-dev  - C++ toolkit derived from the Qt 4.8 framework
+ katie-doc  - C++ toolkit derived from the Qt 4.8 framework
+ katie-runtime - C++ toolkit derived from the Qt 4.8 framework
+ katie-tools - C++ toolkit derived from the Qt 4.8 framework
+Changes:
+ katie (4.12.0) unstable; urgency=medium
+ .
+   * Seventh package update
+Checksums-Sha1:
+ b74cd7194358417ccee285965dc361bfac3a52ce 320736 katie-dev_4.12.0_amd64.deb
+ 7287419667ee9a10c6733929c3ff68c395daf821 15324 katie-doc_4.12.0_all.deb
+ e6f15a1257345742ff8c03a2adac1c46fbacd6a1 121575272 katie-runtime-dbgsym_4.12.0_amd64.ddeb
+ cb03451bd72a08834bfbda792ff0c3587360b8c8 6964092 katie-runtime_4.12.0_amd64.deb
+ dc4da36835c0b3da198d2141ce6f5f741c526dee 7400816 katie-tools-dbgsym_4.12.0_amd64.ddeb
+ fb46e99ee6158c943cecc0f437c991e557d8a5d0 454508 katie-tools_4.12.0_amd64.deb
+ f3a3b34a6eb3e5e070362d9a9047834bdf867cde 11602 katie_4.12.0_amd64.buildinfo
+Checksums-Sha256:
+ f236238c00907e05f342f81c008ed68763886d2121230986132aad30aaec4ff5 320736 katie-dev_4.12.0_amd64.deb
+ cf087d94bc7c25455ba2a73b14675ac080eb9b4d15e96bd89ef72e18bd91894c 15324 katie-doc_4.12.0_all.deb
+ 6aa81b441272ff1343d104588707f972cdebae9e3e4804f1c172058325a68031 121575272 katie-runtime-dbgsym_4.12.0_amd64.ddeb
+ f8239eb977cbe9fb1978a8976529eb40fa58f943a296c13eb3d2f62ef38b9981 6964092 katie-runtime_4.12.0_amd64.deb
+ 9cd6c83f28dd691202a90ff9510e2abd540c1e2985a609ee514c4b000e6c673d 7400816 katie-tools-dbgsym_4.12.0_amd64.ddeb
+ 2cdc3a5b68b1441852454f40eadcfa5b0e6830603b3c6b84aeba158731e6fad6 454508 katie-tools_4.12.0_amd64.deb
+ f2dfbaa0c87d5eaadab8cd849eb77c9ecfad307eae0434a2169b2d52cc674faa 11602 katie_4.12.0_amd64.buildinfo
+Files:
+ 98a37c69fae281cc636bbafcacbe0408 320736 devel optional katie-dev_4.12.0_amd64.deb
+ 975189698c761957c5e09849311e334d 15324 doc optional katie-doc_4.12.0_all.deb
+ f902620d407b05075b8e1d9b348c4964 121575272 debug optional katie-runtime-dbgsym_4.12.0_amd64.ddeb
+ 3a48a93919c7fed3f23c97673fd8fc7c 6964092 x11 optional katie-runtime_4.12.0_amd64.deb
+ f93d3d03c225d91730f0d7593daef8b6 7400816 debug optional katie-tools-dbgsym_4.12.0_amd64.ddeb
+ 4e7f6d1f2341aa55a8364504535ffa22 454508 x11 optional katie-tools_4.12.0_amd64.deb
+ 80dbc4ce4c7b66a0df358cf3239186fc 11602 - optional katie_4.12.0_amd64.buildinfo
