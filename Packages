@@ -37,10 +37,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 25867
 Depends: katie-runtime (>= 4.12.0), libacl1 (>= 2.2.23), libavahi-client3 (>= 0.6.16), libavahi-common3 (>= 0.6.16), libavcodec58 (>= 7:4.0), libavformat58 (>= 7:4.1), libavutil56 (>= 7:4.0), libbz2-1.0, libc6 (>= 2.29), libcdio18 (>= 2.0.0), libcurl3-nss (>= 7.23.1), libdbusmenu-katie, libenchant-2-2 (>= 2.2.3), libepub0 (>= 0.1.1), libexiv2-27 (>= 0.27.2), libgcc-s1 (>= 3.0), libice6 (>= 1:1.0.0), liblzma5 (>= 5.1.1alpha+20120614), libmagick++-6.q16-8, libmpv1 (>= 0.4.0), libpoppler-cpp0v5 (>= 0.46.0), libsm6, libspectre1 (>= 0.2.3), libssl1.1 (>= 1.1.0), libstdc++6 (>= 5.2), libtag1v5 (>= 1.9.1-2.2~), libudev1 (>= 183), libwebp6 (>= 0.5.1), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxss1, libxtst6, zlib1g (>= 1:1.1.4), xdg-utils, shared-mime-info, media-player-info
 Filename: ./katanalibs_4.22.0_amd64.deb
-Size: 6605656
-MD5sum: 93a6e0ef091c579e63b818cdab6cbd0b
-SHA1: 4b6f04092cdc67a5614caea8afbcf1a0a4170bef
-SHA256: 5f873660174aa693d3dab58f16f3632b4f38ebe2fec74b666d24204023320241
+Size: 6608668
+MD5sum: 9d4f5c02e35e589d28332c8691fa840c
+SHA1: ee8022a33942783e639031fc06fe7fc7a52b3cdf
+SHA256: 264fc940722e3ed53568a071be61d70d08324def024a5a31918da78ea0db7867
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/kdelibs
@@ -51,13 +51,13 @@ Source: katie
 Version: 4.12.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 3337
+Installed-Size: 3336
 Depends: katie-runtime, katie-tools
 Filename: ./katie-dev_4.12.0_amd64.deb
-Size: 320196
-MD5sum: 87b185dea9f912a8eb73d9a5f4cb12d4
-SHA1: 08ce159aa27c3bc80a2d85cd12161d0641e2b1e3
-SHA256: 26e69bdf7e03b3f879f129e5cf9e9debc934addf5756f2cc9f781edeb11c98e3
+Size: 320160
+MD5sum: 05759749c64f5396c0b41a828d90fbee
+SHA1: 41084f3e7d71b06117d638e1e6a392ee6a17e348
+SHA256: baee0b5fe8e114c145e29df8da0fe82d65c93f15081890d9bca33065cda880c0
 Section: devel
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -76,10 +76,10 @@ Maintainer: Ivailo Monev <xakepa10@gmail.com>
 Installed-Size: 26
 Depends: man-db
 Filename: ./katie-doc_4.12.0_all.deb
-Size: 15324
-MD5sum: 975189698c761957c5e09849311e334d
-SHA1: 7287419667ee9a10c6733929c3ff68c395daf821
-SHA256: cf087d94bc7c25455ba2a73b14675ac080eb9b4d15e96bd89ef72e18bd91894c
+Size: 15236
+MD5sum: 39905716177b01e834bd5d394bf61e83
+SHA1: 0a4d8ca5f8dac0a6dfdd4beac29b25ffa9936d85
+SHA256: 3f013a07315a0bacae35b49aa49d8922a980d1a7a6ef52993ef0cad2991e9d3b
 Section: doc
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -95,14 +95,14 @@ Source: katie
 Version: 4.12.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 27713
+Installed-Size: 27733
 Depends: libc6 (>= 2.29), libcups2 (>= 1.4.0), libdbus-1-3 (>= 1.9.14), libdeflate0 (>= 1.0), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libgcc-s1 (>= 3.0), libice6 (>= 1:1.0.0), libicu66 (>= 66.1-1~), libjansson4 (>= 2.7), libpng16-16 (>= 1.6.2-1), libsm6, libstdc++6 (>= 5), libx11-6, libxcursor1 (>> 1.1.2), libxext6, libxfixes3, libxinerama1, libxrandr2, libxrender1, xdg-utils
 Recommends: xserver-xorg-core, fonts-freefont-ttf
 Filename: ./katie-runtime_4.12.0_amd64.deb
-Size: 6956956
-MD5sum: dce10e658f15b7051e6a44dedff0d2d0
-SHA1: 9a7c42342763877ea2323b4e70b9b78424682bd0
-SHA256: 1afcebd74a511787e97410f48962429686ce50109e0072efe589b3163e4e606c
+Size: 6919588
+MD5sum: da29e7f46a7d4ab9c67eceb3aad61559
+SHA1: bc0a8f7ea07ecb9bf600566723ffff9973303fec
+SHA256: d4ed1464d3a429c4bfa89450a9725631974d3cb885b21416249d73ad89831b5f
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
@@ -118,13 +118,13 @@ Source: katie
 Version: 4.12.0
 Architecture: amd64
 Maintainer: Ivailo Monev <xakepa10@gmail.com>
-Installed-Size: 1758
+Installed-Size: 1754
 Depends: katie-runtime (>= 4.12.0), libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5)
 Filename: ./katie-tools_4.12.0_amd64.deb
-Size: 454432
-MD5sum: 8531b85c7a07653fcb86bddad4678699
-SHA1: 2d939502749eb0d093b7638ddbf2d1ef4e2bc663
-SHA256: f06443a043106cccec797aa182c1a5198671731e12a89fc749d37b2015d9d27e
+Size: 453512
+MD5sum: 78360b8a15d3af69b67ece3ca8df913a
+SHA1: d97e117f16dabf632138fdd0bd85fd205442a56f
+SHA256: 4d4c1ea68d1eef995aed034ad0c82b5fa9bc47c4f24cfba5f2b2001d5bbc3d5c
 Section: x11
 Priority: optional
 Homepage: https://github.com/fluxer/katie
