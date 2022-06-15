@@ -15,14 +15,14 @@ Changes:
  .
    * Package update
 Checksums-Sha1:
- 5eb460087c3b2dc2742af08e40922ac4d2c3a5f0 215009532 katana-workspace-dbgsym_4.22.0_amd64.ddeb
- c56b65b5ae62302c2ce9a3e96ec456b3f6c4cf95 20299 katana-workspace_4.22.0_amd64.buildinfo
- 75936ce9aa45026d6a6f44127529506d14b5905a 22740920 katana-workspace_4.22.0_amd64.deb
+ 8922639d409f08beb392f8ca330c67fbe99f463d 215100736 katana-workspace-dbgsym_4.22.0_amd64.ddeb
+ 7e51bf2267fc47f46c61371e938750a2a6272b6c 20299 katana-workspace_4.22.0_amd64.buildinfo
+ 55d2aa0c9648265339f35c7256b47d4bbedf86b2 22744060 katana-workspace_4.22.0_amd64.deb
 Checksums-Sha256:
- d7fbaf77c39841b23cccafa0e1258ed491512b622dcab5f18aa5add6af9cc98a 215009532 katana-workspace-dbgsym_4.22.0_amd64.ddeb
- 36ea55bab2e75069e455d8c7387d1bda75762e2776e828a719c2cf0b8d91cacf 20299 katana-workspace_4.22.0_amd64.buildinfo
- aae07cf70b4bb8a4b946fe56eda4159816c82a279de3285af347c3415d520c78 22740920 katana-workspace_4.22.0_amd64.deb
+ fc002938a35f962f4e9501583c26ea1e9ab3e70769b136d54dc89524119c17d2 215100736 katana-workspace-dbgsym_4.22.0_amd64.ddeb
+ 3944b084c4060dc34d5188fffc275c185f27ccc9cc0e68b0447c57da6e4d460f 20299 katana-workspace_4.22.0_amd64.buildinfo
+ d2bcd8afc9675002d1487f63e49ee04f2a2799f133434cdaba96befe2d8c378f 22744060 katana-workspace_4.22.0_amd64.deb
 Files:
- 34a8e6adeb97cf733a5f538ac1a79969 215009532 debug optional katana-workspace-dbgsym_4.22.0_amd64.ddeb
- 5342f791d547b1ecfe89b2bc4c6cc852 20299 x11 optional katana-workspace_4.22.0_amd64.buildinfo
- b104cdd2b5d25b8514baaba0e4328d41 22740920 x11 optional katana-workspace_4.22.0_amd64.deb
+ 0ae4f5e870c0516bf5d036af9c384c74 215100736 debug optional katana-workspace-dbgsym_4.22.0_amd64.ddeb
+ 3b37e3ca597730662f2c2e8ffee078de 20299 x11 optional katana-workspace_4.22.0_amd64.buildinfo
+ 45f9b3d0305a21124ea4fc70c1a3ba51 22744060 x11 optional katana-workspace_4.22.0_amd64.deb
